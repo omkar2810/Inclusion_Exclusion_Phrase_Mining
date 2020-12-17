@@ -1,0 +1,2304 @@
+sentence_id,sentence,category,type
+0,late afternoon a very hot day which took some of the fun out of it,time/day/month,E
+1,concessions were overpriced,price,E
+2,queues were minimal,queues,I
+3,of truly healthy options for dining,food,E
+4,park entry fee is reasonable,price,I
+5,the queues were,queues,I
+6,low wait times i had,queues,I
+7,can queue for 15 minutes at intervals,queues,E
+8,it feel slightly claustrophobic when full,claustrophobic,E
+8,is very stuffy,claustrophobic,E
+9,wish it was a little more airy,claustrophobic,E
+9,with a few less seats crammed,claustrophobic,E
+10,gets pretty hot outside in the afternoon,time/day/month,E
+11,really good price,price,I
+12,nice food court as,food,I
+13,reasonable price,price,I
+14,attitude towards disabled children is shocking,handicap,E
+14,his chair wouldnt go through the turnstile,handicap,E
+15,cost is reasonable,price,I
+16,waves fierce in june,time/day/month,E
+17,very family friendly especially if you have babies young children,age,I
+18,ample free parking,parking,I
+19,nice place to go for a family fun day,couples/family,I
+19,its also cheaper,price,I
+20,little queues,queues,I
+21,queues were long,queues,E
+22,food is good value,food,I
+23,at a reasonable rate,price,I
+24,queues for chicken,queues,E
+25,food was pretty good and decent,food,I
+26,nice place for newly married couple,couples/family,I
+27,much better with a wheelchair,handicap,I
+28,lot of people on a sunday,time/day/month,E
+29,11yo sons interest was held long enough,age,I
+30,my threesisters and i,couples/family,I
+31,if u you have a walker or wheelchair it could be challenging in some areas of the side walk,handicap,E
+32,worth the visit even in a cold monthgo,time/day/month,I
+33,those in wheelchairs get in free,handicap,I
+34,those in wheelchairs can remain seated,handicap,I
+35,all the areas are accessible by wheelchair,handicap,I
+36,toilets had disabled facilities,handicap,I
+37,impressed with the way disabled visitors were treated,handicap,I
+38,recommend the miracle nan gardens to other disabled,handicap,I
+39,not expensive,price,I
+40,heat in july,time/day/month,E
+40,place is crowded,crowd,E
+41,recommend to eat somewhere else,food,E
+42,a lot of walking,handicap,E
+43,great family day out,couples/family,I
+44,for all ages,age,I
+45,one negative which is thepark entry fee,price,E
+45,putting older people off,age,E
+46,if you are physically challenged going up the steep stairs is not going to be an option,handicap,E
+47,not just for the food,food,I
+48,nice drink and eats is a plaesure as well,food,I
+49,a range of eating,food,I
+50,line up for 30 minutes,queues,E
+50,the disabled access ques on the bigger rides were quite long,handicap,E
+51,expensive shops,price,E
+52,it was busy,crowd,E
+52,not incredibly crowded,crowd,I
+53,free ride was only about 10 minutes,price,I
+54,restaurants and bars seem to be aiming at a pretty low demographic,food,E
+55,long line at the entrance,queues,E
+56,felt just like an overcrowded elevator,crowd,E
+57,if youre overly claustrophobic i wish you all the best,claustrophobic,E
+58,very rushed and crowded,crowd,E
+59,impeccably clean,hygiene,I
+59,great value for money,price,I
+60,recommend taking food to eat,food,E
+61,well worth the money,price,I
+61,perfect for a rainy day,time/day/month,I
+62,i was shocked and only 2euro 25cl heineken,price,I
+63,pretty cheap for paris,price,I
+64,tours are free,price,I
+65,recommended for couples families large groups and,couples/family,I
+66,most expensive cruises,price,E
+66,our honeymoon,couples/family,I
+67,go early,time/day/month,I
+68,no lines at all,queues,I
+69,lot of outdoor seating to eat out,food,I
+70,my wife and i love it,couples/family,I
+71,something unsettling about young women standing in full length windows doing anything they can to attract old horny married men,age,E
+72,roads get quite busy,crowd,E
+72,you get claustrophobic its probably best to sit this out,claustrophobic,E
+73,worth the 7 one way,price,I
+74,hubby and i traveled,couples/family,I
+75,large crowd,crowd,E
+76,didnt really have to wait long,queues,I
+77,ramps that lead from floor to floor so there are no stairs to climb,handicap,I
+78,overall quite good for a buffet,food,I
+79,crowd is to be expected,crowd,E
+80,indeed lots of tourists,crowd,E
+81,lovely japanese snacks,food,I
+82,if your claustrophobic this isnt the place for you expensive very crowded lines are very long,claustrophobic,E
+83,families with little kids older kids couples,couples/family,I
+83,group of older ladies all enjoying the experience,age,I
+84,always prefer the afternoon matinee performance,time/day/month,I
+85,money very well spent,price,I
+86,worth every penny,price,I
+87,reasonably priced,price,I
+88,cheap street food,price,I
+91,by his grandparents,age,I
+92,small que but no problem,queues,I
+93,easy to navigate,handicap,I
+94,an enjoyable family day,couples/family,I
+95,restaurant with good size portions,food,I
+95,reasonably priced,price,I
+96,unreal food offerings,food,I
+96,steak for 300 a kilo,price,I
+97,way cheaper,price,I
+98,prices in the market and the shops has gone up significantly over,price,E
+99,recc going either early or late,time/day/month,I
+100,get the sunset flight,time/day/month,I
+101,go eat,food,I
+101,just have drinks,food,I
+101,for the price of admission,price,I
+102,is a bit of a trek,handicap,E
+103,3 great morning run,time/day/month,I
+104,very quiet in the morning before 9 am,time/day/month,I
+104,without spending a penny,price,I
+105,my family,couples/family,I
+105,3 children 853,age,I
+106,largest fell my 3 an 5 year olds have walked but,age,I
+107,the kids loved,age,I
+108,it was an hour wait,queues,E
+109,the buffet was great,food,I
+110,ticket price is extremely high,price,E
+110,place is overcrowded,crowd,E
+111,difficult to find space for parking,parking,E
+112,but expensive,price,E
+113,5 year old daughter enjoyed it,age,I
+114,will be even better on a sunny day,time/day/month,I
+115,if it excessively rains there is one valley that floods,time/day/month,E
+116,end time around 6 or 7 pm and that was starting around 930 am,time/day/month,I
+117,parking was easy,parking,I
+118,it was not super crowded,crowd,I
+120,the queue wasnt too long,queues,I
+121,hard to get the kids to sleep,age,E
+122,which wasnt cheap,price,E
+123,a little overpriced,price,E
+124,lositically with young kids we will fly next time,age,E
+125,lots of waiting is involved,queues,E
+127,you dont have many options,food,E
+129,excellent spread of food,food,I
+129,good price,price,I
+130,prices arent going to be great,price,E
+131,decently priced tickets,price,I
+132,entertainment programs for young children,age,I
+133,incredibly expensive,price,E
+135,just too busy,crowd,E
+136,slope became too busy,crowd,E
+138,towards the end of the afternoon parts of the slopes especially at the top were too icy,time/day/month,E
+139,went later in the afternoon,time/day/month,I
+139,didnt nan have to wait or line,queues,I
+140,fair prices,price,I
+141,wonderful learning experience for the kids,age,I
+142,claustrophobic its a bit creepy being underground,claustrophobic,E
+143,have good food,food,I
+144,very few people on the grounds,crowd,I
+145,we were charged the full 17,price,E
+146,95 admission price each several attractions and food and drink options were closed,price,E
+147,the food was not worth the price,food,E
+148,very expensive food and drink,food,E
+148,way overpriced,price,E
+149,its not worth the price,price,E
+150,there were lots of people inside crowding around the stairs,crowd,E
+151,only 3 euros,price,I
+152,recommend going there early,time/day/month,I
+152,there arent so many tourists,crowd,I
+153,just dont think the prices are in line with the quality,price,E
+154,my wife and i spent,couples/family,I
+155,especially in the early morning sunshine,time/day/month,I
+156,a free evening,time/day/month,I
+157,cheap travel,price,I
+158,excellent place for families,couples/family,I
+159,can be a little pricey,price,E
+159,is well worth,price,I
+160,few confined to wheelchairs,handicap,I
+161,food was reasonable,food,I
+162,the kids turned green from the altitude,age,E
+163,you might find it hard to breath,claustrophobic,E
+164,not a friendly beach to the handicapped,handicap,E
+165,except in parking,parking,E
+166,this is a family beach,couples/family,I
+168,they are very expensive,price,E
+169,not much to see or do with inclement weather or even in the winter,time/day/month,E
+170,really busy,crowd,E
+171,the queues were right down to the gate,queues,E
+172,it was like a cattle market,crowd,E
+173,children visiting were enjoy themselves but it was very claustrophobic,claustrophobic,E
+174,would recommend midweek,time/day/month,I
+175,as a family,couples/family,I
+176,can get busy with tourists,crowd,E
+176,is more expensive,price,E
+177,good food at a reasonable price,food,I
+178,massive queues of people,queues,E
+179,my other half is claustrophobic,claustrophobic,E
+180,my family,couples/family,I
+181,parking can be challenging,parking,E
+181,reasonably priced,price,I
+182,very reasonable price,price,I
+183,no entrance fee,price,I
+183,friday and saturday nights,time/day/month,I
+183,places to eat,food,I
+184,kids loved,age,I
+185,bridge was full of people,crowd,E
+186,get there early,time/day/month,I
+186,you may have to wait,queues,E
+187,kids have fun,age,I
+187,crowds during our visit,crowd,E
+188,dodging thousands of people,crowd,E
+188,strollers filled with screaming kids,age,I
+189,every square foot of the park being occupied by people,crowd,E
+190,prices for everything is double literally,price,E
+191,had good food,food,I
+192,considering the crowds,crowd,E
+193,sake of my kids having fun,age,I
+194,crowded as we expected,crowd,E
+195,were usually packed,crowd,E
+196,plenty of restaurants to keep you fed,food,I
+196,much cheaper,price,I
+197,food in the cafe is really good,food,I
+198,my husband and teens,couples/family,I
+199,prices arent bad though,price,I
+200,the crowds werent bad,crowd,I
+201,geared for kids,age,I
+203,00 entry was a bit steep,price,E
+204,tiny gaps that fit one person,claustrophobic,E
+205,worth the money on a tour,price,I
+206,it is very crowded throughout,crowd,E
+206,hopefully not claustrophobic,claustrophobic,E
+207,how crowded it is,crowd,E
+208,tiny child could easily climb through and fall off the cliff,age,E
+208,would not bring any littles,age,E
+209,good family event,couples/family,I
+209,good dinner,food,I
+210,the kids liked that,age,I
+211,kids like horses at all this is a great way to get a meal and a show,age,I
+212,not as crowded as we expected,crowd,I
+213,kids age 8 nan 11 love sitting on gator and,age,I
+214,my husband and i went,couples/family,I
+215,table had place for 8 people,couples/family,I
+215,instead of stuffed and crowded,crowd,I
+216,delicious drinks,food,I
+217,especially the kids for having a fantastic start in the evening,age,I
+218,the food was delicious,food,I
+219,took my partner,couples/family,I
+220,rock seems very slippery,handicap,E
+222,rather limited in menu selection,food,E
+222,plenty of wonderful restaurants in the area,food,I
+223,it was quite hot in july,time/day/month,E
+224,cleanliness of the ocean was the best,hygiene,I
+225,very adept at managing the crowds,crowd,I
+225,never felt claustrophobic,claustrophobic,I
+226,it is a narrow and at times poorly lit climb,claustrophobic,E
+226,not a good option for the claustrophobic,claustrophobic,E
+227,far to many people,crowd,E
+228,food hall areafood shop is lovely,food,I
+229,additional seating pads to raise smaller children up,age,I
+230,heavily crowded,crowd,E
+231,was a bit claustrophobic,claustrophobic,E
+232,food and drink and,food,I
+233,entrance not really expensive,price,I
+234,dining place,food,I
+235,easy to navigate with children,age,I
+236,clean and well kept,hygiene,I
+237,werent eyeing up the dads nan nan and definitely not the mothers nan this was clearly a childrens play area and i was not at all comfortable with,age,E
+237,inappropriate and why would two grown men have an interest in going into a young childrens,age,E
+238,removed my child and moved on,age,E
+239,butt naked rear end appearing in his face as he was riding with our child on the carousel ride,age,E
+239,cover up in food areas nan restaurants at least,food,E
+240,food and pricing exactly what you would expect from any theme park,price,I
+241,be prepared for traffic both ways,crowd,E
+242,you hike over slippery rocks and slippery trails,handicap,E
+243,worried about the people i saw carrying babies in back packs,age,E
+244,it is known to be quite dangerous,age,E
+245,6 year old daughter and we all loved it,age,I
+246,me and my husband,couples/family,I
+247,they made her feel like a princess,age,I
+248,husband is visually impaired legally blind,handicap,I
+249,food and drinks can be purchased for reasonable prices,price,I
+250,a treat for my youngest son,age,I
+251,helped reduce the usual queues,queues,I
+252,u are handicap and have a scooter make sure and take it,handicap,I
+253,only have wheelchairs,handicap,I
+254,there were thousands of people,crowd,E
+255,could be claustrophobic for some,claustrophobic,E
+256,queues were too long,queues,E
+257,queue was out the door to go pay for items,queues,E
+258,who belonged to a group of 16all,couples/family,I
+259,the food is nothing to talk about,food,E
+260,room was so claustrophobic,claustrophobic,E
+261,it was only 12,price,I
+262,massive line,queues,E
+263,go early,time/day/month,I
+264,12 year old daughter,age,I
+265,queues for rides with minimal,queues,I
+265,had no queues at all,queues,I
+266,the park is clean,hygiene,I
+266,to cater for all ages,age,I
+267,great alternative to the crazy busy crowds,crowd,I
+268,great value down to earth food with,food,I
+269,acceptable cost for travel,price,I
+271,slight feeling of claustrophobia,claustrophobic,E
+272,freshly cooked to order,food,I
+273,plenty of hot nan cold drinks available,food,I
+274,there is a parking lot,parking,I
+275,variety of food,food,I
+276,to make wonderful family,couples/family,I
+277,well worth paying 30,price,I
+278,our teenagers were captivated,age,I
+279,the kids are already planning what tour they will do when they return again,age,I
+280,family recently returned from a fun weekend trip,couples/family,I
+281,with the large crowds,crowd,E
+281,they felt claustrophobic at times,claustrophobic,E
+282,we were 3 and another family of 4 joined us,couples/family,I
+283,we escape the claustrophobic surroundings,claustrophobic,E
+284,price has gone up to a whoppingper adult which is absolutely extortionate,price,E
+285,it was very busy when we visited in early september,time/day/month,E
+286,admission price is ridiculous,price,E
+287,was packed,crowd,E
+288,huge line to get on,queues,E
+289,not for the claustrophobic,crowd,E
+290,the lines were long even to pick up prepurchased tickets,queues,E
+291,other lines snaked for 500m,queues,E
+292,were unexpectedly busy,crowd,E
+293,lines were crazy long,queues,E
+294,isnt that much choice to eat if you are a vegetarian or vegan,food,E
+295,still had quite a wait to get in,queues,E
+296,hundreds of people packed like sardines in a tin,crowd,E
+297,it was hot and claustrophobic,claustrophobic,E
+298,negotiate large flights of stairs with small children and disabled people in the crowd,handicap,E
+299,exploited by this money machine of,price,E
+300,the food and show were great,food,I
+301,the prices good,price,I
+302,there at 630am and there was no one,time/day/month,I
+303,busloads appears,crowd,E
+304,i could criticise the price,price,E
+305,my entire family 4 kids and wife and mom had a great time,couples/family,I
+306,our 2 year old,age,E
+307,not great for him,handicap,E
+308,not very pushchair friendly,handicap,E
+309,really helpful to my pregnant wife,handicap,I
+310,really enjoyed having lunch,food,I
+311,long lines,queues,E
+312,bathrooms absolutely filthy,hygiene,E
+313,floors and mirrors filthy,hygiene,E
+314,not a place to take your kids,age,E
+315,corridor claustrophobic,claustrophobic,E
+316,long lines,queues,E
+317,take the lift if the stairs present a challenge,handicap,I
+318,i went with my wife,couples/family,I
+319,queues for the rides,queues,E
+319,waiting 40 minutes for a ice cream,queues,E
+320,waits were so long,queues,E
+321,family birthday for my 11 year old son,couples/family,I
+322,kept clean,hygiene,I
+323,wasnt over crowded,crowd,I
+324,no feeling of claustrophobia,claustrophobic,I
+325,cafes and bars,food,I
+326,with my family,couples/family,I
+327,costs 4,price,E
+328,seems expensive,price,E
+329,more entertaining for youth,age,I
+330,feel claustrophobic,claustrophobic,E
+331,price is suitable,price,I
+332,youll be waiting a while,queues,E
+333,a 2 hour wait,queues,E
+334,clean,hygiene,I
+335,use the elevators,handicap,I
+336,on a family trip,couples/family,I
+337,that engage children,age,I
+338,food options,food,I
+339,scientific loving family,couples/family,I
+340,easy to navigate for those in wheelchairs or with other mobility issues,handicap,I
+341,they looked quite busy,crowd,E
+341,every type of food you could ask for available,food,I
+342,charge so much,price,I
+343,seating itself is crowded,crowd,E
+344,drinks spilled all over the floor,hygiene,E
+345,hang back for a while if you are claustrophobic at all,claustrophobic,E
+346,lots of people,crowd,E
+347,due to friends claustrophobia,claustrophobic,E
+348,plenty of car parking,parking,I
+349,climb up the mount was a challenge,handicap,E
+350,unsanitary and disgusting toilets,hygiene,E
+351,a bit pricey,price,E
+352,makes the experience claustrophobic,claustrophobic,E
+353,young couple,couples/family,I
+354,was a little on the high,price,E
+355,on the kids area,age,I
+355,hardly have any line,queues,I
+356,made me nervous because i get claustrophobic really,claustrophobic,E
+357,it wasnt crowded,crowd,I
+358,it was probably at least 30 minutes,queues,E
+359,lines were short,queues,I
+360,waste your whole day standing in line,queues,E
+361,can get very busy,crowd,E
+362,crazy crowded,crowd,E
+363,reasonable christmas sales prices 50,price,I
+364,be prepared for the crowds,crowd,E
+365,teenagers to the 8 year old,age,I
+366,no limit to the number of people,crowd,I
+367,especially for families,couples/family,I
+368,almost always packed to the brim,crowd,E
+368,especially saturdays,time/day/month,E
+369,recommend only going to this park on a weekday,time/day/month,I
+370,worth the price,price,I
+371,frequently crowded,crowd,E
+372,if youre claustrophobic they might not be very awesome,claustrophobic,E
+373,of very long lines,queues,E
+374,food is really nothing special here,food,E
+375,very expensive,price,E
+376,just be prepared for the amount of money it will cost you,price,E
+377,if it is not crowded,crowd,E
+378,my 5 year old daughter,age,I
+379,is expensive i,price,I
+380,battling long queues and crowds,queues,E
+381,park is so clean,hygiene,I
+382,parking is difficult to obtain,parking,E
+383,not handicap accessible,handicap,E
+384,can get crowded,crowd,E
+385,including the disabled,handicap,I
+386,focused on younger visitors,age,I
+387,great for families,couples/family,I
+388,prepared to spend 40 for,price,E
+389,there were no crowds,crowd,I
+390,have to wait in line,queues,E
+391,watched families with small children and elderly expected to do this,couples/family,E
+392,great food,food,I
+393,activities is a bit expensive for,price,E
+394,easy disabled access,handicap,I
+396,for a couple,couples/family,I
+396,older children,age,I
+397,terrible area for bikes strollers nan wheel chairs or walkers,handicap,E
+398,without it feeling overcrowded,crowd,I
+399,with play areas for children,age,I
+400,steep for an hour tour,price,I
+401,concerned about parking,parking,E
+402,straight to our designated disabilty balcony,handicap,I
+403,seated in my own wheelchair afront a few inebriated attendees nan,handicap,E
+404,very clean,hygiene,E
+404,fully wheelchair friendly,handicap,I
+405,19 yr old and her boyfriend,couples/family,I
+406,claustrophobics beware,claustrophobic,E
+407,still very busy,crowd,E
+409,claustrophobic crowds,claustrophobic,I
+411,children friendly,age,I
+411,handicapped friendly,handicap,I
+412,enjoyed our meal,food,I
+413,really expensive,price,E
+414,no trouble finding parking,parking,I
+415,little crowded,crowd,E
+416,youre claustrophobic,claustrophobic,E
+417,the long long wait,queues,E
+418,claustrophobic,claustrophobic,E
+419,extent of parking,parking,I
+420,with long lines,queues,E
+421,mildly claustrophobic,claustrophobic,E
+422,he is a teenager and,age,I
+423,kids because they love it,age,I
+423,as adults it really isnt our favourite,age,E
+424,queues were pretty horrific,queues,E
+425,was claustrophobic,claustrophobic,E
+426,avoid holiday weekends,time/day/month,E
+427,ques to buy tickets was huge,queues,E
+428,it was very claustrophobic,claustrophobic,E
+430,930pm the night we arrived and found ourselves very exhausted,time/day/month,E
+431,they were so engaged the whole time,age,I
+432,would do it again with kids,age,I
+434,in the day before it gets busy,crowd,I
+436,food was lukewarm and below average,food,E
+437,best a little early in the morning,time/day/month,I
+438,not cheap,price,E
+439,lots of interactive things for kids and adults,age,I
+440,no discount for disabled,handicap,E
+441,my husband and i,couples/family,I
+442,too small for the exhibits plus a full crowd of visitors,crowd,E
+443,not enough space,claustrophobic,E
+443,make the place claustrophobic,claustrophobic,E
+444,entrance fee was very reasonable,price,I
+445,there were big queues,queues,E
+445,food was well priced and very good,food,I
+446,without feeling claustrophobic,claustrophobic,I
+447,had to queue for 1 hour 45 mins,queues,E
+448,was very expensive,price,E
+449,buffet nan very good and largepasta,food,I
+450,but we spent about 5 hours queuing,queues,E
+451,many women with push chairs,handicap,I
+452,food in the main cafe is very average,food,E
+453,more geared for teens and above,age,I
+454,pretty much empty on a weekday,time/day/month,I
+455,poorly cook and taste lousy,food,E
+456,near the entrance is a tedious effort,queues,E
+456,push the strollers up a very steep slope,handicap,E
+457,family with young kids can skip this park,age,E
+458,is not kid friendly,age,E
+459,make it family friendly,couples/family,E
+461,difficult for those with mobility or claustrophobia,claustrophobic,E
+462,families couples,couples/family,I
+463,only more expensive,price,E
+464,very tasty dishes and cheap,price,I
+465,but an expensive day and,price,E
+465,very crowded,crowd,E
+466,claustrophobic for me,claustrophobic,E
+467,although its busy,crowd,E
+467,never feels claustrophobic,claustrophobic,E
+468,the food was surprisingly great,food,I
+469,if your kids are old enough,age,I
+469,dont mind paying extra,price,E
+470,girls ages 18 20 and 20 loved,age,I
+471,dubious about the admission price,price,E
+472,our kids aged 3,age,I
+473,5 and 5 enjoyed,age,I
+474,whole place feels claustrophobic,claustrophobic,E
+475,queues were lengthy 4570 mins,queues,E
+476,and the kids loved that,age,I
+477,can be quite claustrophobic,claustrophobic,E
+478,only 1 ride the 8yo could not go on,age,E
+478,both kids could do everything,age,I
+479,without having to queue,queues,I
+480,seating is claustrophobic,claustrophobic,E
+481,food looked expensive,food,E
+482,it can be expensive,price,E
+483,no line waiting hardly at all,queues,I
+485,free car parking,parking,I
+486,lovely cafe,food,I
+487,fairly expensive,price,E
+487,crowds are dismal,crowd,E
+488,over shadowed by the volume of people,crowd,E
+489,with my family,couples/family,I
+490,on wheelchair and stroller can use this walk,handicap,I
+491,you are not into climbing stairs,handicap,E
+491,claustrophobic,claustrophobic,E
+492,family with two teenage daughters had a great day,couples/family,I
+493,all nice and clean,hygiene,I
+494,young people,age,I
+495,the long line,queues,E
+496,walkways were so cramped,claustrophobic,E
+497,full from people,crowd,E
+498,but it was so crowded,crowd,E
+499,nothing for wheelchair,handicap,E
+501,so fun for the kids,age,I
+502,were clean,hygiene,I
+504,lifetime experience for my kids and husband,age,I
+505,nothing to do with children,age,E
+506,and dirty,hygiene,E
+507,no elevators nor ramps for prams and people with disabilities,handicap,E
+508,not worth,price,E
+509,recommend getting there early,time/day/month,I
+509,went at 930am on monday,time/day/month,I
+510,food are well priced,price,I
+510,theres plenty of selection,food,I
+511,it seems quite expensive per,price,E
+512,i would not be able to play the slots,price,E
+512,you had a handicap place card you where able to park which means going to the buffet is also out of the question,handicap,E
+513,may not be suitable for very young children,age,E
+513,wheelchair users may find it unusable,handicap,E
+514,best to go on early mid week days,time/day/month,I
+514,it gets crowded on the weekend,crowd,E
+515,go early,time/day/month,I
+516,would not have wanted to be going up at noon,time/day/month,E
+517,line was queued for a hour or more on a monday,time/day/month,E
+519,were very clean,hygiene,I
+520,nude sunbathing,age,E
+521,96 that are on that section are nude or partially nude,age,E
+523,at no point did the theatre feel to claustrophobic,claustrophobic,I
+524,it was pretty crowded,crowd,E
+525,hard time finding parking,parking,E
+526,great place for either family fun or couples,couples/family,I
+527,it is clean,hygiene,I
+528,took our 12 nan 10 year old grandkids,age,I
+528,nan lines got a little long in the mid,queues,E
+528,and the price is,price,I
+529,recommend going on a saturday or sunday if you are a group of 2 or more,time/day/month,I
+530,found a long queue there,queues,E
+531,are packed tightly,claustrophobic,E
+532,overpriced souvenirs,price,E
+533,very crowded place,crowd,E
+534,it impossible for the disabled,crowd,E
+535,food was extorionately high in cost,handicap,E
+535,an expensive visit for a family,price,E
+536,place was packed out,crowd,E
+537,have an overpriced drink,price,E
+539,great food options,food,I
+540,the price was perfect,price,I
+542,absolutely delicious meal,food,I
+543,few ideas for family fun1,couples/family,I
+544,first thing in the morning,time/day/month,I
+545,parking lot is full of loitering people,hygiene,E
+546,took our 3 teenagers,age,I
+547,food selection,food,I
+548,not good for a prambulator or wheelchair,handicap,E
+549,were all fun for our 10 year old,age,I
+550,can get very busy,crowd,E
+551,after having a delicious lunch,food,I
+552,being the month of february the weather was very nice,time/day/month,I
+553,entire area is quite smooth nan wheelchair accessible,handicap,I
+554,plenty of other accessible shops,handicap,I
+555,not claustrophobic like other casinos,claustrophobic,I
+556,seems to be the cleanest,hygiene,I
+557,the familybeautifulyou,couples/family,I
+558,suit everyone in the family,couples/family,I
+559,young and old can find plenty to interest them,age,I
+560,very crowded,crowd,E
+561,quite expensive,price,E
+562,if you are travelling with kids i wouldnt recommend it,age,E
+563,a fun kids section,age,I
+564,as they can be pricey,price,E
+565,parking and camping areas are large,parking,I
+566,just 8 per vehicle,price,I
+567,lines for the tram can be long very long,queues,E
+568,complained about feeling claustrophobic,claustrophobic,E
+569,do not recommend going between christmas and new years day,time/day/month,E
+570,you with three young children the last thing you want to do is be stuck in traffic,crowd,E
+571,helping my wheelchair bound daughter,handicap,I
+572,its great for kids,age,I
+573,i plan to do this trip again with my husband,couples/family,I
+574,very busy,crowd,E
+575,huge queues,queues,E
+576,my teenage son loved,age,I
+577,difficult to access if you require a wheelchair,handicap,E
+577,has a lift in for disabled visitors,handicap,I
+578,gluten free choice of food available wasnt as extensive,food,E
+579,nice to have gluten free bread,food,E
+580,kids i saw seemed to be having great fun,age,I
+582,if you are claustrophobic take caution,claustrophobic,E
+583,other fun stuff for the kids to do you,age,I
+584,wednesdays are free to get in,time/day/month,I
+584,parking spots are very narrow,parking,E
+585,it was very crowded,crowd,E
+585,when you have strollers and you cant get through,handicap,E
+586,hundreds of places to eat and drink,food,I
+587,heat was making me feel so claustrophobic,claustrophobic,E
+588,get there a little early,time/day/month,I
+589,prices are good,price,I
+590,which are tight and claustrophobic,claustrophobic,I
+591,and clean too,hygiene,I
+592,accessible by my husbands mobility cart,handicap,I
+593,had a short queue,crowd,I
+594,due to claustrophobia issues,claustrophobic,E
+595,it was all kept clean and,hygiene,I
+596,other parking options,parking,I
+597,at night is with a group,time/day/month,I
+598,food prices are a bit extreme,food,E
+599,children under age 18 years old dont require a ticket,age,I
+600,stairwell was hot and stuffy,claustrophobic,E
+601,people of all ages,age,I
+602,best times to hike are during the early morning,time/day/month,I
+602,late afternoon to evening,time/day/month,I
+603,there is parking,parking,I
+604,if you have younger children avoid the strenuous trails,age,E
+605,stairs are dangerous to scale and,handicap,E
+606,crowds of people just take over the streets,crowd,E
+607,but a little claustrophobic,claustrophobic,E
+609,at a reasonable price,price,I
+610,no parking provided,parking,E
+611,reasonable priced,price,I
+612,many food choices,food,I
+613,the trip was expensive,price,I
+614,there were 3 couples,couples/family,I
+615,make sure you arrive early,time/day/month,I
+616,crowds get too big,crowd,E
+617,was cheaper for our family of 4 and,couples/family,I
+618,cabin was very clean,hygiene,I
+618,food was perfectly adequate,food,I
+619,was suitable for kids,age,I
+620,whilst not cheap at around 1100,price,E
+621,full of people,crowd,E
+622,places to eat,food,I
+623,overpriced,price,E
+624,great fun for the whole family,couples/family,I
+625,parking in the area is difficult,parking,E
+626,other long lines,queues,E
+627,overcrowded main floor,crowd,E
+628,narrow crowded hallwaysstairwells,claustrophobic,E
+629,i question its price tag,price,E
+631,perfct for all ages,age,I
+632,there is a lot of walking and stairs,handicap,E
+633,its not cheap but,price,E
+634,parking is right outside the entry,parking,I
+635,too overcrowded,crowd,E
+635,overpriced,price,E
+636,the kids enjoyed the,age,I
+637,very clean,hygiene,E
+637,was clean,hygiene,I
+638,a bit expensive,price,E
+639,dont have to get the expensive seats,price,I
+640,aimed at an adult mature crowd,age,I
+641,quite expensive,price,E
+643,is there ventilation food at the buffet was reasonably priced and tasty,food,I
+644,wasnt really a crowd,crowd,I
+646,you dont like crowds or feel claustrophobic being,claustrophobic,E
+647,going early in the morning or late in the evening,time/day/month,I
+649,no drinks or food could be served,food,E
+650,super taxed and never cheap,price,E
+651,family orientated,couples/family,I
+652,the food and drink is overpriced but,price,E
+653,in the food and drink queues,queues,E
+654,has good disabled accessibility,handicap,I
+655,several people being pushed in wheelchairs,handicap,I
+655,arent loads of steep inclines,handicap,I
+656,loan wheelchairs for free,handicap,I
+657,for our honeymoon,couples/family,I
+658,honored our request to sit in the first row due to handicap issues,handicap,I
+659,recommend this fun train trip to any family wanting,couples/family,I
+660,theres a large queue inside,queues,E
+661,would be really expensive,price,E
+662,the long line,queues,E
+663,a sunday morning and the line was long,time/day/month,E
+664,prices are very good,price,I
+665,must go for all the family,couples/family,I
+666,nice place for the whole family the,couples/family,I
+667,is during the winter months,time/day/month,I
+669,trail though is very cool and if my youngest were perhaps 10,age,E
+670,free admission and parking,parking,I
+670,food court prices and tasty,food,I
+671,kids will have memories for a lifetime,age,I
+672,my granddaughter did not enjoy,age,E
+673,reasonably priced,price,I
+674,dining on the second floor is great,food,I
+675,even if you have the kids in tow,age,I
+676,for kids,age,I
+677,the children were happy,age,I
+678,it was busy,crowd,E
+679,but super crowded,crowd,E
+680,be ready to walk up many hills and stairs,handicap,E
+681,best time to practice is in the morning,time/day/month,I
+682,you have the crowd coming,crowd,E
+683,be careful with the teenagers,age,E
+684,kind of expensive,price,E
+685,it can be nice for kids,age,I
+686,it is clean,hygiene,I
+687,january is a great time,time/day/month,I
+688,lots of overpriced but tasty food and drink,food,I
+689,concert crazy crowded,crowd,E
+690,handicap drop off area,handicap,I
+691,no issue parking although,parking,I
+692,recommend going both day and night,time/day/month,I
+693,journey was a bit pricey,price,E
+694,the kids would love it,age,I
+695,it was really busy,crowd,E
+696,it all got a bit claustrophobic,claustrophobic,E
+697,for kids especially teens,age,I
+698,smaller kids may not be able to participate,age,E
+699,parking lot is currently closed,parking,E
+700,crazy kids,age,I
+701,avoid the queues,queues,E
+702,its little bit crowded because,crowd,E
+703,pretty much stroller friendly,handicap,I
+703,we put the baby in the carrier and left the stroller by security,age,E
+704,tired screaming and uncontrolled kids,age,E
+704,hot claustrophobic waiting line,claustrophobic,E
+705,show was overpriced,price,E
+705,wait to get in was too long,queues,E
+706,shelf alcohol included was impressive,food,I
+707,the buffets were worse,food,E
+708,on ship internet is overpriced,price,E
+709,this is a popular site,crowd,I
+710,there were a lot of people,crowd,E
+711,dining area needs great improvement,food,E
+712,high prices limited selection,food,E
+713,fill your belly inexpensively and deliciously,price,I
+714,al la cart restaurants were amazing,food,I
+714,food and wine is superb,food,I
+715,wish to do so for all the family,couples/family,I
+715,wheelchair friendly to anyone with disabilities,handicap,I
+716,packed with tourists,crowd,E
+717,great family fun,couples/family,I
+718,grandkids did alot of the kids rides,age,I
+719,a reasonably priced food,price,I
+720,price seems a little bit steep,price,E
+721,bit claustrophobic,claustrophobic,E
+722,was very crowded queues for food were quite long,queues,E
+723,things are expensive,price,E
+724,but expensive,price,E
+725,it was a bit claustrophobic,claustrophobic,E
+726,went early in the morning around 8309am,time/day/month,I
+726,there were no lines,queues,I
+727,was a reasonable price,price,I
+728,for the younger kids,age,I
+729,expect lots of stairs,handicap,E
+730,several steep and i mean steep staircases,handicap,E
+731,i can begin to feel claustrophobic,claustrophobic,E
+732,overpriced food,price,E
+733,seemed reasonably priced,price,I
+734,was not so busy,crowd,I
+735,not over priced,price,I
+736,im really sore about the amount of money we spent to,price,E
+737,way overpriced,price,E
+738,best time to go early morning,time/day/month,I
+739,breakfast was good,food,I
+740,filled with too many people,crowd,E
+741,shame how many people were stuck queuing,queues,E
+742,if you are claustrophobic or fearful of heights,claustrophobic,E
+742,a number of narrow stairways,claustrophobic,E
+743,delicious food and drink,food,I
+744,the plaza is very crowded,crowd,E
+745,i recommend around 6,time/day/month,I
+746,30 before 7pm,time/day/month,I
+747,good for couples and lovers,couples/family,I
+748,it is a very very busy,crowd,E
+748,claustrophobic sometimes,claustrophobic,E
+749,resort was very clean,hygiene,I
+750,food was good and reasonably priced,food,I
+751,queues were virtually nonexistent despite,queues,I
+751,being a lot of people in the park,crowd,E
+752,the place seems wheelchair friendly,handicap,I
+753,it was not overcrowded,crowd,I
+754,not really for people who have problems with heights or claustrophobia,claustrophobic,E
+755,a very expensive day out,price,E
+756,layout is quite claustrophobic,price,E
+757,so many people,crowd,E
+758,want price gauged food loads of people insane slide wait times,queues,E
+759,645 in the morning to beat the crowds,time/day/month,I
+760,lines were so short,queues,I
+761,who suffer from claustrophobia will not like this line,claustrophobic,E
+762,very impressed with the food,food,I
+763,and clean,hygiene,I
+764,we saw no evidence of crowds,crowd,I
+765,subway was clean not very crowded,crowd,I
+766,minimal lines in the morning,queues,I
+767,extra adventure for the kids,age,I
+768,saturday night and it was quite busy,time/day/month,E
+769,buses are packed,crowd,E
+771,still required a person to walk sometimes distances,handicap,E
+772,they dont make any accommodations for those with handicaps or limited mobility,handicap,E
+773,food was overabundant and delicious,food,I
+774,had bad knees or other limited mobility who all wished they had been told the truth,handicap,E
+775,my wife is disabled and all the staff were wonderful and extremely helpful throughout,handicap,I
+775,all its attractions are disabled friendly,handicap,I
+776,typical bad food and slow lines,food,E
+777,not too expensive,price,I
+778,clean,hygiene,I
+779,especially with young children,age,I
+780,somethingn for every age child,age,I
+780,kids will never get bored,age,I
+781,people were just leaving their coffee cups on th picnic tables,hygiene,E
+782,many enjoyable places to eat,food,I
+783,cheaper than the supermarket,price,I
+784,it gets very busy when,crowd,E
+785,suitable for wheelchair access,handicap,I
+786,thing was greeted by a horrendous mess of poos platters,hygiene,E
+787,hairs in shower not ours,hygiene,E
+788,food in hotel not a la carte is awful at best,food,E
+789,found hairs in my pasta,hygiene,E
+790,very crowded,crowd,E
+790,miserable claustrophobic,claustrophobic,E
+791,felt sorry for the children,age,E
+792,da zhong hua restaurant had some of the best sushi,food,E
+794,your with a lot of people,crowd,E
+795,disabled discount,handicap,I
+796,lots of free parking,parking,I
+797,fantastic restaurants,food,I
+798,preferably for handicapped,handicap,E
+799,excellent cheap food,food,I
+800,could have been cleaner,hygiene,E
+801,ground floor space is cramped,claustrophobic,E
+802,there are play areas on each floor,age,I
+803,really narrow and cramped,claustrophobic,E
+804,narrow and claustrophobic,claustrophobic,E
+805,my kids ages 12 and 10 had a blast,age,I
+806,it felt claustrophobic,claustrophobic,I
+807,very long lines,queues,I
+808,kind to my senior citizen mom,age,I
+809,interest all the family,couples/family,I
+810,dirty,hygiene,E
+811,there were a lot of trash on the sand,hygiene,E
+812,pretty clean too,hygiene,I
+813,even with the number of people who were there,crowd,E
+814,lovely range of food,food,I
+815,beach is clean,hygiene,I
+816,the workers were constantly cleaning and sweeping,hygiene,I
+817,there were no real lines,queues,I
+818,have minimal accommodations for the disabled,handicap,E
+819,this limited what she could take part in,handicap,E
+820,there was no modifications in most cases to accommodate the handicapped,handicap,E
+821,museum had ramps or elevators,handicap,I
+822,free for 12 under,age,I
+823,were exciting enough for the eldest and,age,I
+823,gentler rides were perfect for the youngest,age,I
+824,you can expect to be there for goodness knows how long,queues,E
+825,if you are claustrophobic you may have a tough time,claustrophobic,E
+826,not cheap,price,E
+827,due to the queue we decided against it,queues,E
+828,good quality of food,food,I
+828,numerous clean toilets,hygiene,I
+829,due to the dense crowds,crowd,E
+830,good day out for couples and families alike,couples/family,I
+831,disabled and never have to use my wheelchair,handicap,I
+832,however this night i have it,time/day/month,E
+833,there were wheelchairs for loan,handicap,I
+834,everyyhing was accessible for us,handicap,I
+835,staff cant deal with huge crowds,crowd,E
+836,pools were great fun for the 10,age,I
+836,paddle boats were the fave of the 16,age,I
+837,accomodate us just popping in with 5 children,age,I
+838,very good restaurants,food,I
+839,worth,price,E
+840,rather claustrophobic tight spot,claustrophobic,E
+841,food is average,food,E
+842,wander around and catch up with family as there is plenty of time to chat,couples/family,I
+843,restaurant had a good selection of food,food,I
+844,a great activity to do with all,couples/family,I
+845,cheap food for purchase,price,I
+846,sort of place you want to be walking down with kids really,age,E
+847,restaurants,food,I
+848,parking is easy as there is plenty of it,parking,I
+849,if you suffer from claustrophobia then maybe not for you,claustrophobic,E
+850,without crowds of people,crowd,I
+851,the park itself tends to feel a bit claustrophobic,claustrophobic,E
+852,i did this also in my wheelchair,handicap,I
+853,this area was very difficult to maneuver on your own,handicap,E
+854,great food,food,I
+855,the prices were pretty cheap,price,I
+856,good for people watching if you are a couple,couples/family,I
+857,thought it was overpriced,price,I
+858,didnt feel claustrophobic,claustrophobic,I
+859,prices were a bit high,price,E
+860,i could not justify the price tag,price,E
+861,kids enjoying the museum,age,I
+862,impossible for elderly to get about,age,E
+862,long queues,queues,E
+863,astronomical price of food and beverages,price,E
+864,line was really long so we passed,queues,E
+865,family safe,couples/family,I
+866,children can learn more about food and locally sourced produce and meats,age,I
+867,can get claustrophobic,claustrophobic,E
+868,food is mostly good,food,I
+869,it is rather expensive,price,E
+870,prices are high,price,E
+871,nasa space camp for kids,age,I
+872,as i am claustrophobic we wanted to miss out the dungeons,claustrophobic,E
+873,the prices are fairly high,price,E
+873,quality of much of the food is excellent,food,I
+874,i recommend paying a visit on a friday,time/day/month,I
+875,arriving at 9 is perfectly reasonable,time/day/month,I
+876,there are lots of vegan options too,food,I
+877,prices are higher,price,I
+878,a very small price,price,I
+879,the crowds are much lower,crowd,I
+880,my teens love the coasters there,age,I
+881,claustrophobic position,claustrophobic,E
+882,really good day out with the family,couples/family,I
+883,children enjoyed the animals,age,I
+883,food was basic and over priced,food,E
+884,there were couples carrying babies,age,I
+885,terrific collection of restaurants,food,I
+886,good for couples families,couples/family,I
+887,the crowds have killed off the reef,crowd,E
+888,got very claustrophobic,claustrophobic,E
+889,enjoying it as a kid with my family,couples/family,I
+890,no problem queuing,queues,I
+892,not at all claustrophobic,claustrophobic,I
+893,needed a right good clean,hygiene,E
+894,wheelchairs were not allowed,handicap,E
+895,warning to wheelchair users,handicap,E
+895,provision of ramps here is half hearted,handicap,E
+896,if you are claustrophobic then do not walk through these streets,claustrophobic,E
+897,strongly advise against bringing children and toddlers,age,E
+898,with poor ventilation,claustrophobic,E
+899,but not very empathetic toward people struggling with stairs,handicap,E
+900,drinks were expensive,price,E
+901,have never had to wait in line for more than 45 min,queues,I
+902,every roller coaster was at least a 2 hour wait,queues,E
+903,lovely choice of food no traffic,food,I
+903,little bit expensive to eat,price,E
+904,walk the walls early evening,time/day/month,I
+905,the card read is very expensive,price,I
+906,main attractions are incredibly crowded,crowd,E
+907,either free or inexpensive to go,price,I
+910,parking is easy,parking,I
+911,lots of reasonably priced eateries we had fabulous pizzas,food,I
+912,the food was lovely,food,I
+913,its a lot of money,price,I
+914,disabled area,handicap,I
+915,probably best to avoid if youre claustrophobic though,claustrophobic,E
+916,both children loved,age,I
+917,for the fish and chip shop were always long,queues,E
+918,still good for very young children,age,I
+919,elevators for the disabled or those with strollers are not well maintained,handicap,E
+920,this is bad enough if you have an electric wheelchair,handicap,E
+921,can you imagine the difficulty if you use a manual chair,handicap,E
+922,winding long queues,queues,I
+923,museum is free,price,I
+925,had car seats for little kids,age,I
+927,i suffer from a little claustrophobia so needed to come out a few times for some fresh air,claustrophobic,E
+929,a bit pricey,price,E
+930,like most things in iceland is expensive,price,E
+931,parking can be another challenge,parking,E
+932,but i felt a bit claustrophobic,claustrophobic,E
+933,stall and stand is expensive,price,E
+934,it was crowded but not too crowded,crowd,I
+935,the food isnt too pricey,price,I
+936,we had to wait in line for two hours,queues,E
+937,it became quite claustrophobic,claustrophobic,E
+938,waited 45 minutes just to pay for parking,parking,E
+939,while waiting in long lines,queues,E
+941,if you are even a little claustrophobic dont do it,claustrophobic,E
+942,the crowds on the day that we were there were almost frightening in a claustrophobic way,claustrophobic,E
+943,this museum is free,price,I
+944,cheap,price,E
+945,surprisingly not that crowded,crowd,I
+946,the entire family enjoyed,couples/family,I
+947,the queue started around 3kms back at entrance and we stood their for 9 hours,queues,E
+948,but it is very very crowded,crowd,E
+949,it is claustrophobic in parts,claustrophobic,E
+950,found the prices very reasonable,price,I
+951,dont feel at all claustrophobic,claustrophobic,I
+952,plenty of parking,parking,I
+953,the queues were very longwe,queues,I
+954,the prices for food obviously high,price,E
+955,there are long queues,queues,E
+956,nice place to be for families with small kids,couples/family,I
+957,price of food and entertainment are not cheap,food,E
+958,lots of parking,parking,I
+959,worth it for my family including 2 young girls,couples/family,I
+960,long as you are not claustrophobic,claustrophobic,E
+961,the crowds here were also larger,crowd,E
+962,no elevators for people with mobility issues,handicap,E
+963,if you are claustrophobic it might be an issue for you,claustrophobic,E
+964,if you are in a wheelchair and want to visit the kennedy graves there is a shallow ramp up the righthand side,handicap,I
+965,food was great,food,I
+966,there is a place where couples can add their locks to the love area and take pics and be romantic,couples/family,I
+967,kids and adults alike will enjoy,age,I
+968,try to reach early,time/day/month,I
+968,gets too crowded,crowd,E
+969,resort has drastically raised the price,price,E
+969,making it unaffordable,price,E
+970,not to many people,crowd,I
+971,nice for kids also,age,I
+972,that can keep your kids entertained,age,I
+973,lots of food choices,food,I
+974,baby type kids that can work,age,I
+975,i began to feel a little claustrophobic,claustrophobic,E
+976,with much better cafe space and food choices,food,I
+977,boat was clean,hygiene,I
+978,quite high parking charges nearby,parking,E
+979,i went there with my family and we had a great day,couples/family,I
+980,youre going with family friends or even solo,couples/family,I
+981,but not overly crowded,crowd,I
+982,this proved quite expensive,price,E
+983,it was the most expensive,price,E
+985,parking 2 and entry 5 per adult were easy,parking,I
+986,it wasnt cheap,price,E
+987,lots of rides catering for children and families,couples/family,I
+988,few hours of queueing time per character,queues,E
+989,huge variety of restaurants food,food,I
+989,lacking in choice for younger diners,age,E
+990,ride the tram to the top if youre not claustrophobic,claustrophobic,E
+991,were lined up for about 2 miles,queues,E
+992,were no military or disability discounts available,handicap,E
+993,one caveat is all the steps involved and the small stairways,handicap,E
+994,many fine dining opportunities,food,I
+995,a variety of food,food,I
+996,buffet dinner is too crowded overpriced,food,E
+996,food sectionquality were lacking,food,E
+997,elevator ride is far too crowded,crowd,E
+997,they will limit the number of riders if someone has bad claustrophobia,claustrophobic,I
+998,food was very good,food,I
+999,was a little pricey,price,E
+1000,it was very busy packed,crowd,E
+1001,assistance loading scooter along with other wheelchairs and,handicap,I
+1002,costs much more money,handicap,E
+1003,overpriced plasticine restaurant,price,E
+1004,overpriced parking garage,price,E
+1004,crowded strip,price,E
+1005,fun to spend a rainey,time/day/month,I
+1006,nice food,food,I
+1007,is clean,hygiene,I
+1008,prices are cheap,price,I
+1009,immaculately clean,handicap,I
+1010,entry fee was high,price,E
+1011,bathroom line is long,queues,E
+1012,because of the crowds it was over an hour wait in line,queues,E
+1013,one woman from our tram refused to ride due to claustrophobia,claustrophobic,E
+1014,prices were cheap,price,I
+1015,food was slightly over priced,food,E
+1016,snack bar expensive,price,E
+1016,intriguing food cart,food,I
+1017,lot of nice bars places to eat,food,I
+1018,it was very popular and busy,crowd,E
+1019,crowded london,crowd,E
+1020,there are ample car parks,parking,I
+1021,warning no elevators for people sitting upstairs and have difficulty climbing stairs,handicap,E
+1022,good for kids 8 and up,age,I
+1023,food selections unbelievable,food,I
+1024,overpriced,price,E
+1025,after waiting on line,queues,E
+1025,wait on a line,queues,E
+1025,wait on line,queues,E
+1026,not for someone with claustrophobia,claustrophobic,E
+1027,elderly family member unable to do the climb and with lifts broken,age,E
+1028,the food was awesome,food,I
+1029,so much to eat,food,I
+1030,three of us are vegetarians and we had no problem with getting food,food,I
+1031,were through both the checkin and breakfast lines within thirty minutes,queues,I
+1032,the lines look and feel long but if you time yourself youll see they actually go super fast,queues,I
+1033,this is a family,couples/family,I
+1034,but you dont feel crowded,crowd,I
+1035,parents of young kids you can take a stroller,age,I
+1036,plenty of parking,parking,I
+1037,clean,hygiene,I
+1038,with good restaurants,food,I
+1039,adults pushed children out of the way,age,E
+1040,it is crowded,crowd,E
+1041,overcrowded,crowd,E
+1042,the shows were so crowded,crowd,E
+1043,is not accessible to strollers,handicap,E
+1044,due to high prices,price,E
+1045,people are overpacked,crowd,E
+1046,go to the market on monday or,time/day/month,I
+1047,although very claustrophobic,claustrophobic,E
+1048,the food was excellent,food,I
+1049,fun place to go with family and kids,couples/family,I
+1050,parking is easy,parking,I
+1050,security lines are fast,queues,I
+1051,on busy days its expensive,price,E
+1052,mostly families,couples/family,I
+1053,it does cost quite a bit of money,price,E
+1054,water is a little dirty,hygiene,E
+1056,all lines seemed to be 20 min or less,queues,I
+1057,as they are screwing their guests on the prices of food,price,E
+1058,the food was great,food,I
+1059,mainly for my 6 year old son,age,I
+1060,parking always a nightmare,parking,E
+1061,range of food,food,I
+1061,youll queue anywhere for ages,queues,E
+1062,one of the best tastings,food,I
+1063,not enough parking,parking,E
+1064,except wheelchairs,handicap,E
+1065,the one trail that says wheelchair accesible,handicap,I
+1066,of the shops looked to be very expensive,price,E
+1067,felt claustrophobic,claustrophobic,E
+1068,did not see the big queues,queues,I
+1069,the food delicious,food,I
+1070,excellent event for family or a group of friends,couples/family,I
+1071,no help for elderly people,age,E
+1072,it is clean,hygiene,I
+1073,toilets in shop dirty,hygiene,E
+1074,i would not recommended this for babies,age,E
+1075,terrible pathways for disabled people,handicap,E
+1076,put your money in your pockets and go howletts if you have young children disabled people or older,age,E
+1077,its crowded,crowd,E
+1077,youre even the least bit claustrophobic you will not enjoy it,claustrophobic,E
+1078,an outrageous price,price,E
+1079,dont go if you get claustrophobic from crowds,claustrophobic,E
+1080,plenty of activities for both kids and adults,age,I
+1081,inexpensive,price,I
+1082,makes a mockery of the advertisement about disabled people,handicap,E
+1083,it is a nice outing for people traveling with families couples friends,couples/family,I
+1084,albeit not cheaply,price,E
+1084,the quality is good for a train,food,I
+1084,just ok if this were not a train meal,food,E
+1085,everything costs more than it should,price,E
+1086,so the waits can be long during,queues,E
+1087,there is almost nothing for the undercrowd to do at sfstl,crowd,E
+1088,areas around the bathrooms reeked of urine,hygiene,E
+1089,prices too were out of control,price,E
+1090,lots of rides for the kids,age,I
+1091,restaurants are pricey,price,E
+1092,beach was packed on a sunday afternoon,time/day/month,E
+1093,not cheap,price,E
+1094,we turned up mid morning and there were only 34 people in the line,time/day/month,I
+1095,felt a little claustrophobic,claustrophobic,E
+1096,but its very busy and expensive,price,E
+1097,kids also loved the goat,age,I
+1098,a very kid friendly zoo,age,I
+1099,prices reasonable and food decent,price,I
+1100,its rides are all ada accessible,handicap,I
+1101,they help accommodate you getting on the ride,handicap,I
+1102,this is my kids favorite park,age,I
+1103,i would even recommend it for other families,couples/family,I
+1104,it was crazy busy,crowd,E
+1105,everything is expensive,price,E
+1106,it wasnt child friendly,age,E
+1107,long lines to the bathroom,queues,E
+1108,nasty bathroom,hygiene,E
+1109,handicapped people barely able to walk were pushed up the stairs,handicap,E
+1110,no ramp offered,handicap,E
+1111,this is not a place i would recommend for young couples,couples/family,E
+1111,is likely extortionately priced,price,E
+1112,there is great selection of food,food,I
+1112,many young people go here,age,I
+1113,i wouldnt recommend it for young children,age,E
+1114,the park was clean,hygiene,I
+1115,no wait to get onto a tour as we arrived at,queues,I
+1116,was super crowded,crowd,E
+1117,waiting lines were not bad at all,queues,I
+1118,we had to rent a wheelchair for my teenager daughter,handicap,I
+1119,always very clean,hygiene,I
+1120,for sure they need more handicap parking spaces,handicap,E
+1121,though a bit crowded being peak tourism season,crowd,E
+1122,it is so nice not to feel claustrophobic,claustrophobic,I
+1123,also so not so good for claustrophobic,claustrophobic,E
+1124,still the best place for kids,age,I
+1125,the room was clean,hygiene,I
+1126,meals were good and you had a reasonable choice of meals,food,I
+1128,2 kids in tow,age,E
+1129,it was the highlight of our family vacation,couples/family,I
+1130,have a tasty place to eat or grab a beverage even beer,food,I
+1131,like the hula hoop contest for young and old,age,I
+1132,the only real drawback is paying 20 to park,price,E
+1133,it was a little busy,crowd,E
+1133,all the children enjoyed the hour,age,I
+1134,there was a very long queue for equipment,queues,E
+1135,a great tip for all the family,couples/family,I
+1136,the attractions and rides suit old and young alike,age,I
+1137,clean enclosures,hygiene,I
+1139,was also a little claustrophobic,claustrophobic,E
+1140,our son 4years old was really excited and had an awesome time,age,I
+1141,i had a fantastic time with family,couples/family,I
+1142,parking is convenient,parking,I
+1143,cost is acceptable,price,I
+1144,highly recommend visiting the acropolis in the early evening to beat some of the crowds and most of the heat,time/day/month,I
+1145,if the weather is decent meaning not pouring down with thunderstorms then i would recommend doing this hike,time/day/month,E
+1146,not a place for very young children though,age,E
+1147,cafe is quite expensive,price,E
+1148,it was quite an expensive outing,price,E
+1149,its expensive,price,E
+1150,its very expensive 80,price,E
+1152,so no food,food,E
+1153,which was awesome for me and our teenager,age,I
+1154,there wasnt much lines,queues,I
+1155,tickets snacks drinks and food are all reasonable priced,price,I
+1156,the staff went out of their way to assist me and make this happen,handicap,I
+1157,they even carried me into and out of the water,handicap,I
+1158,first of all if you are thinking of taking young kids its not fun,age,E
+1159,dark claustrophobic conditions,claustrophobic,E
+1161,it was extremely busy so may people at this attraction,crowd,E
+1163,it was pretty busy,crowd,E
+1164,only part that was slightly annoying was trying to find parking,parking,E
+1165,im not sure if they offer handicap parking anywhere,handicap,E
+1165,this might be an issue for people with mobility issues,handicap,E
+1166,large volumes of visitors,crowd,E
+1167,the fences make it claustrophobic,claustrophobic,E
+1168,tatty and just plain dirty,hygiene,E
+1169,because its so busy,crowd,E
+1170,spotlessly clean,hygiene,I
+1171,one of the most expensive shops i have ever been in,price,E
+1172,yes it was pricey,price,E
+1172,but the selection was amazing,food,I
+1173,queues at check in were horrendous,queues,E
+1174,almost becoming slightly claustrophobic panicky,claustrophobic,E
+1175,only negatives were a too many people,crowd,E
+1176,the place was clean,hygiene,I
+1177,very interactive for kids,age,I
+1178,might not be overly fun or enticing for bigger kids,age,E
+1179,but mostly the park will appeal to younger children,age,I
+1180,the food was even surprisingly good,food,I
+1180,high prices,price,E
+1181,pricey but very good,price,I
+1182,even for kids,age,I
+1183,this beach is super crowdy,crowd,E
+1184,couldnt do the boat trip as he gets claustrophobic,claustrophobic,E
+1185,the cafe was very nice sandwiches and cakes where nice,food,I
+1186,you can see it so very cheaply,price,I
+1188,we have a 9 year old son in a wheelchair from the minute we drove in parking to getting our carers ticket was so easy,handicap,I
+1189,able to access every ride except 1 with our disable child,handicap,I
+1190,would recommend all families with young children to spend a day at this place,age,I
+1191,children loved it too,age,I
+1192,couldnt believe the lines of people,queues,E
+1193,made it a bit of fun for the kids,age,I
+1193,sheer volume of people that head to the palace,crowd,E
+1194,no queues,queues,I
+1195,despite being more expensive,price,E
+1196,limited selection of sandwiches and not fresh by any means,food,E
+1197,also a treat for any child is seeing santas reindeer,age,I
+1198,it was over crowded and there were big queues for everything,queues,E
+1199,it is so over crowded,crowd,E
+1200,it was very claustrophobic,claustrophobic,E
+1201,terminal itself is very ugly and dreary,hygiene,E
+1202,rather expensive prices,price,E
+1203,articles of high priced well known brands,price,E
+1204,the crowds were in full force,crowd,E
+1205,the tour buses were packed solid,crowd,E
+1206,8 park fee wasnt much more than other beaches meter parking,price,I
+1207,easy parking,parking,I
+1208,it can feel a little claustrophobic,claustrophobic,E
+1210,was no queue,queues,I
+1211,we did not have to queue much,queues,I
+1212,the teens loved both beaches,age,I
+1213,but the prices are high,price,E
+1214,place is claustrophobic,claustrophobic,E
+1215,it was just too busy,crowd,E
+1216,there was a long wait in the restaurants,queues,E
+1216,food was really nice though and big portions,food,I
+1217,a little bit over priced,price,E
+1218,eat good and cheap,food,I
+1219,zoo is clean,hygiene,I
+1220,food out lets were,food,I
+1220,a good selection off food and,food,I
+1221,i feel it was high,price,E
+1222,definitely not for the claustrophobic,claustrophobic,I
+1223,this one parking could be a,parking,E
+1224,it is quite busy,crowd,E
+1224,there are always queues in front of the top brands,queues,E
+1225,food was nice too,food,I
+1225,would recommend this for families,couples/family,I
+1226,so so much more squeezed in this space,crowd,E
+1227,if you are claustrophobic or not a fan of big crowds perhaps you would think i twice about coming here as it is very busy,claustrophobic,E
+1228,but a little claustrophobic,claustrophobic,E
+1229,the day ends up being very expensive,price,E
+1230,lots of people,crowd,E
+1231,if you are claustrophobic this place is not for you,claustrophobic,E
+1232,particularly good for families,couples/family,E
+1233,it was fairly expensive,price,E
+1234,me being retired military disabled we recieved a nice discount,handicap,I
+1235,the queues were slightly smaller,queues,I
+1236,looked very claustrophobic,claustrophobic,E
+1237,the food was bland and,food,E
+1238,great for kids,age,I
+1238,informative for all ages,age,I
+1239,i felt very claustrophobic,claustrophobic,E
+1240,not great for buggies or the elderly either,age,E
+1241,making it very crowded,crowd,E
+1241,claustrophobic for the thousands of folks,claustrophobic,E
+1242,it was very crowded,crowd,E
+1243,the crowds detracted from my experience,crowd,E
+1244,almost claustrophobic with the crowds,claustrophobic,E
+1245,but it was annoying on account of the crowds,crowd,E
+1246,how amazing it is for little kids,age,I
+1247,including those for toddlers,age,I
+1248,perfect for little ones,age,I
+1250,worth every cent for families couples,couples/family,I
+1251,vastly overpriced for what you got,price,E
+1252,boating lake area was quite busy,crowd,E
+1253,the grounds are immense beautiful clean,hygiene,I
+1254,beach was very crowded,crowd,E
+1255,just too crowded it felt a bit claustrophobic,claustrophobic,E
+1256,plenty of parking spaces in the deck,parking,I
+1257,food and on board entertainment more then made up for this,food,I
+1258,long queues for security and,queues,E
+1259,the island is busy though,crowd,E
+1260,very crowded with thousands of tourists,crowd,E
+1261,hot and crowded,crowd,E
+1262,there were a crowd of people,crowd,E
+1263,be wary of crowds,crowd,E
+1264,all of them expensive,price,E
+1265,its very clean,hygiene,I
+1266,since she has bad knees we were very aware we couldnt possibly visit it all,handicap,E
+1267,have many visitors,crowd,E
+1267,three blooks line,queues,E
+1268,the facility is crowded,crowd,E
+1269,there will be lines at every venue,queues,E
+1270,entry seems a little pricey,price,E
+1271,the food and beverages are priced too high,food,E
+1272,good selection of hot food,food,I
+1273,very poor state of the young childrens play area,age,E
+1274,beware there are stairs with no elevators in some parts of the theatre,handicap,E
+1275,the rides are so crowded now,crowd,E
+1276,not enough food options either,food,E
+1276,you will wait in a long line,queues,E
+1277,very family friendly,couples/family,I
+1278,for families with small kids,couples/family,I
+1279,a bit creepy for younger or sensitive people,age,E
+1280,the food try the she crab soup was delicious,food,I
+1281,but can be expensive,price,E
+1282,lovely place to take the family,couples/family,I
+1282,there is a good playground for them,age,I
+1283,really expensive for what it is,price,E
+1284,it did feel quite claustrophobic,claustrophobic,E
+1285,the kids did seem to enjoy it,age,I
+1286,one didnt feel claustrophobic,claustrophobic,I
+1287,everyone youngest to oldest in our group loved this part of the trip the most,age,I
+1288,the coffee in the beanery was great,food,I
+1289,felt claustrophobic,claustrophobic,E
+1290,our kids really enjoyed their first visit,age,I
+1291,parking though busy,parking,E
+1292,endless supply of food can be had,food,I
+1293,the prices for drinks food are not bad at all,food,I
+1294,a family can still afford to eat here,price,I
+1295,the food was excellent,food,I
+1297,the beer and food were excellent,food,I
+1298,being a claustrophobic experience,claustrophobic,E
+1299,great for familys,couples/family,I
+1300,wheelchairs to rent,handicap,I
+1301,not a good place if you suffer from claustrophobia,claustrophobic,E
+1302,great play area for kids chains,age,I
+1302,restaurants to eat,food,I
+1303,you just have to be patient for parking,parking,E
+1304,one would feel almost claustrophobic,claustrophobic,E
+1305,the crowds were huge,crowd,E
+1306,theres a rides for children,age,I
+1307,expensive,price,E
+1308,foods can be expensive,food,E
+1309,love the food there very good for family gathering,couples/family,I
+1310,my kids enjoyed the trip,age,I
+1311,helping them too and from their seats and wheelchairs,handicap,I
+1312,bus handicapped accessible,handicap,I
+1313,you can even rent a stroller or wheelchair,handicap,I
+1314,its less crowded,crowd,I
+1315,due to crowding,crowd,E
+1316,the buffet food was nothing special,food,E
+1317,the food arranged was also very good,food,I
+1318,the season pass is very cheap,price,I
+1319,unless you have car seats or a handicap person,handicap,I
+1320,its reasonably priced,price,I
+1320,small children loved the tram,age,I
+1321,if you have kids or a handicapped family member this place would accommodate them,handicap,I
+1322,for families friends and couples,couples/family,I
+1323,treated to an uncrowded almost traffic free visit,crowd,I
+1324,even with a wheelchair or stroller,handicap,I
+1325,disabled catered,handicap,I
+1326,dirty toiletlong queues for fast food restaurants,hygiene,E
+1327,expensive restaurants,price,E
+1327,were not impressed at all with service and quality of food,food,E
+1328,may not be worth the family price,price,E
+1329,that area was jam packed,crowd,E
+1330,i am claustrophobic and it was hot,claustrophobic,E
+1331,dinner was meh,food,E
+1332,to expensive not for the low cost holiday,price,E
+1333,especially younger kids,age,E
+1334,family friendly show,couples/family,I
+1334,cry room for fussy children,age,I
+1335,you get claustrophobic sit far back,claustrophobic,E
+1336,it was fitlthy and disgusting,hygiene,E
+1337,trash cans were overflowing,hygiene,E
+1337,restrooms were often porta potties,hygiene,E
+1338,great for groups couples,couples/family,I
+1339,bought expensive tickets,price,E
+1340,quite claustrophobic,claustrophobic,E
+1341,long lineup,queues,E
+1342,loads of space no long queues,queues,I
+1343,this is family friendly and handicap accessible,couples/family,I
+1344,no alcoholic drinks are sold,food,E
+1345,buffet is excellent,food,I
+1346,the steak was perfect,food,I
+1347,everything was easily accessible,handicap,I
+1348,he loved the playground,age,I
+1349,very good and lovely food,food,I
+1350,if youre claustrophobic this is not the place for you,claustrophobic,E
+1351,loads of kids,age,I
+1352,not suitable for buggies wheelchairs,handicap,E
+1353,would recommend it for all ages,age,I
+1354,the streets were crowded,crowd,E
+1354,bars were filled to capacity,crowd,E
+1356,i was one of the oldest,age,E
+1357,260 for 4 people is extortionate,price,E
+1358,its very small and crowded,crowd,E
+1359,due to the massive crowds,crowd,E
+1360,for claustrophobes like me it was a bit much,claustrophobic,E
+1361,with probably 3040 minutes queues on each ride which was not to bad,queues,I
+1362,every queue was far to long we even had to queue for 25 minutes to get a cold drink,queues,E
+1363,when you have a 5 and 7 year old the queues ruin the day,age,E
+1364,kids liked it,age,I
+1365,one rollercoaster we queued for 1 hour 40 mins,queues,E
+1366,the crowds for about an hour,crowd,E
+1367,it was fairly quiet which was a pleasant surprise,crowd,I
+1368,you can bring your friends and family back all year long,couples/family,I
+1369,simply too expensive,price,E
+1370,they have a childrens area,age,I
+1371,must take a long a family member,couples/family,I
+1372,family friendly shopping experience,couples/family,I
+1372,toys store for kids as well,age,I
+1372,the smells from the restaurants are delectable,food,I
+1373,my teenagers liked this tour more than me,age,I
+1375,it may be too much to pay if you are taking the family,couples/family,E
+1376,you may not enjoy as much in a packed,crowd,E
+1377,plenty of food and drink available,food,I
+1378,this visit was unpleasant due to the sheer numbers of people crammed into what is mostly very confined viewing areas,crowd,E
+1379,children were getting separated from their careers it was very hot and claustrophobic,age,E
+1380,crazy fun for grandparents and 16 yr old,age,I
+1381,especially for little ones,age,E
+1382,parking midweek in early june was not an issue,parking,I
+1383,the actors were very considerate towards the children,age,I
+1384,the bar prices and concession stalls rob you blind,price,E
+1385,the beach was not crowded,crowd,I
+1386,parking was a dream,parking,I
+1387,this location also has parking,parking,I
+1388,very high priced,price,E
+1389,great location for the family and couples,couples/family,I
+1389,great food,food,I
+1390,they are really accomodating to claustrophobic mobility restricted,handicap,I
+1391,i thought they were expensive,price,I
+1392,everything was so accessible,handicap,I
+1393,not very many queues,queues,I
+1393,good chice of rides for our family aged from 2 to 9 plus adults,age,I
+1394,would recommend to any family,couples/family,I
+1395,highly recommend this to anyone with kids,age,I
+1396,food was ok not great,food,E
+1396,loads of places to eat,food,I
+1396,it was over priced,price,E
+1396,lack of a cueing system for people,queues,E
+1397,if you are claustrophobic i dont recommend going inside,claustrophobic,E
+1398,this is not a place for families with children,age,E
+1399,touring with a disabled person is always a challenge but the staff made everything so easy,handicap,I
+1400,if you are looking for a place to take the young kids for an hour or two out of the rain its a must,age,I
+1401,security pushing children crying children,age,E
+1402,food in this park for us is the best on disney property,food,I
+1403,excellent holiday foods,food,I
+1404,the food is amazingly delicious,food,I
+1405,had no issues with crowds,crowd,I
+1406,crowds were minimal,crowd,I
+1407,no bus crowds down,crowd,I
+1408,who waited in long lines and saw a crowded venue,queues,E
+1409,its overcrowded by boats and people,crowd,E
+1410,that made it less claustrophobic,claustrophobic,I
+1411,these activities were fun for the kids,age,I
+1412,at a good prize,price,I
+1413,but the line moved quickly,queues,I
+1414,despite the crowds of selfie obsessives,crowd,E
+1415,to avoid the worst of the crowds arrive early,time/day/month,I
+1416,both young and old,age,I
+1417,it would be very expensive but its not,price,I
+1419,it never ever felt crowded or over busy,crowd,I
+1420,there were plenty families around as there are a couple of play areas,couples/family,I
+1421,i looked into the cafe saw the queue and walked away,queues,E
+1422,there is always a queue in my experience,queues,E
+1423,the price of a family ticket was a pleasant surprise,price,I
+1424,pushing a wheelchair or nan loaded baby buggy will wear you out,handicap,E
+1425,bought food at the discouvery zone absolute rubbish,food,I
+1425,manky chees and cheap and nasty burger,food,E
+1426,we went in the evening and so avoided the queues,time/day/month,I
+1427,whole place is so claustrophobic and cramped there are no open spaces,claustrophobic,E
+1428,also the toilets why are they so tiny,claustrophobic,E
+1429,then no child sinks,age,E
+1430,werent toddler friendly at all,age,E
+1431,a must do for kids,age,I
+1432,are extremely crowded,crowd,E
+1432,if you are claustrophobic this experience is definitely not for you,claustrophobic,E
+1433,i dont think i have ever seen crowds quite like this before,crowd,E
+1434,we had a stroller with us which we found to be quite difficult,handicap,E
+1434,leave the stroller at home,handicap,E
+1435,the food was good,food,I
+1436,wasnt to busy,crowd,I
+1437,kids will be scared of monkeys for rest of their lifeswe,age,E
+1438,was ignorant on kids crying,age,E
+1439,in general amusement parks are for children,age,I
+1440,you must bring the family here,couples/family,I
+1441,my grandkids enjoyed the childrens clothes,age,I
+1442,piazza was crowded with tourists,crowd,E
+1442,it never felt claustrophobic,claustrophobic,I
+1444,i was helped off the train by the staff,handicap,I
+1445,most claustrophobic staircase,claustrophobic,E
+1446,was a lot of people,crowd,E
+1447,the crowd was manageable,crowd,I
+1448,but it did get extremely busy,crowd,E
+1448,it felt quite claustrophobic,claustrophobic,E
+1449,it is a bit pricey,price,E
+1450,definitely not for the claustrophobic,claustrophobic,I
+1451,for the whole family,couples/family,I
+1452,would definitely recommend for families dog walkers and couples,couples/family,I
+1453,please keep your kids at home,age,E
+1454,it wasnt too crowded,crowd,I
+1455,our preteen son really enjoyed the swings,age,I
+1456,which was not too crowded,crowd,I
+1457,even the preteen,age,I
+1458,with way too many people,crowd,E
+1459,when you have to queue in lines for 90 to 180 minutes,queues,E
+1460,lots of food and drink places,food,I
+1460,all are very expensive,price,E
+1461,i queued 45 minutes for the big wheel,queues,E
+1462,constantly getting pushed and the queues,queues,E
+1463,the museum was very crowded,crowd,E
+1464,such as no strollers in the dinosaur exhibit area,handicap,E
+1465,and all at a very reasonable price,price,I
+1466,treat for all the kids big or small,age,I
+1467,a delicious pork pie or some interesting street food,food,I
+1468,be warned it can get extremely busy,crowd,E
+1469,it is a cafeteria and a very good one a bit over priced,price,E
+1470,a hundred of the worlds most expensive shops,price,E
+1471,recommend to my friends and family,couples/family,I
+1472,great accesibility as i have limited mobility,handicap,I
+1473,easy to get a drink,food,I
+1474,despite very hot weather it was very comfortable,time/day/month,I
+1475,had it not been so expensive,price,E
+1476,food prices are also overpriced,price,E
+1476,food is subpar,food,E
+1477,lockers and towels are also pricey,price,E
+1478,not as busy as it looks from the photos,crowd,I
+1479,very very clean,hygiene,I
+1480,many places are accessible,handicap,I
+1481,it is ok to get in and browse around with wheelchairs,handicap,I
+1482,this is also the most crowded museum i have ever seen,crowd,E
+1483,it was very busy but didnt feel too crowded,crowd,I
+1485,the park is clean,hygiene,I
+1485,accommodating for my disabled adult son,handicap,I
+1486,too expensive,price,I
+1487,but the museum was so packed,crowd,E
+1488,they really need to do something about crowd control,crowd,E
+1489,perhaps a tad expensive,price,E
+1490,great food,food,I
+1491,be prepared to do a lot of walking ascending and descending stairs,handicap,E
+1492,there can be a lot of congestion and queuing,claustrophobic,E
+1493,no line ups,queues,I
+1493,kids got to go on numerous rides,age,I
+1493,no waits,queues,I
+1494,we purchased the all day dinning and it was great,food,I
+1495,expensive beer,price,E
+1496,loads to do for kids,age,I
+1497,so kids were very happy,age,I
+1498,great rainy day activity,time/day/month,I
+1499,its kept so clean,hygiene,I
+1500,it was super clean,hygiene,I
+1501,the food was fantastic,food,I
+1502,all of it was delicious,food,I
+1503,wine flowed continuously,food,I
+1504,great food,food,I
+1505,food drinks childrens play park,age,I
+1506,there were easy to navigate,handicap,I
+1507,is rather expensive and so is the food,price,E
+1508,it would be good to have a few more choices for lunch,food,E
+1509,downside is the cost and the crowds,price,E
+1510,all kinds of food and snacks,food,I
+1511,you can experience the cramped conditions,claustrophobic,E
+1512,not too bad of a wait,queues,I
+1513,they kept things running smoothly even when it was very busy on easter sunday,crowd,I
+1514,my kids loved this place,age,I
+1515,got really busy mid morning,time/day/month,E
+1516,only suggestion would be to go early in the morning,time/day/month,I
+1517,didnt wait long,queues,I
+1518,had to cut our visit short because of mobility issues,handicap,E
+1519,you can access the viewing platform easily by lift,handicap,I
+1519,restaurant involves stairs to go up and down,handicap,E
+1520,it is a very cheap,price,I
+1521,surely stimulate any childs imagination,age,I
+1522,we were in and out of the parking lot in less then half an hour,parking,I
+1523,but theres nothing more claustrophobic,claustrophobic,E
+1523,in a large mass of tourists,crowd,E
+1524,unless you specifically wish to see tracy arm or have limited mobility i would not recommend this tour for your time in juneau,handicap,I
+1525,because of the costs,price,E
+1526,it was much too busy for a wheelchair user,handicap,E
+1527,just too busy to be comfortable,crowd,E
+1528,avoid at the weekend if you have any mobility issues,handicap,E
+1529,its way overpriced,price,E
+1529,food is sub par at best,food,E
+1530,we didnt queue too long for anything,queues,I
+1531,food around the park is really cheap,food,I
+1532,pizza and pasta buffet was really good value for money,price,I
+1533,cramped,claustrophobic,E
+1534,i didnt see any elevator access,handicap,E
+1535,the whole thing made me claustrophobic,claustrophobic,E
+1536,the cost of admission was far from worth it in my opinion,price,E
+1537,it might be a good activity for toddlers and young children,age,I
+1537,i dont recommend for teens and adults,age,E
+1538,time in the overcrowded,crowd,E
+1539,it hit quite claustrophobic,claustrophobic,E
+1540,no excuse for the extortionate prices,price,E
+1541,albeit very crowded,crowd,E
+1542,there are strollers available for children,age,I
+1543,family friendly,couples/family,I
+1544,plenty of restaurants and coffee bars,food,I
+1545,it was not crowded at all,crowd,I
+1546,the line moved at a reasonable pace,queues,I
+1547,some days the place is packed lines are long wait is long,queues,E
+1548,the general cost of food was excessive,price,E
+1549,it was pretty crowded,crowd,E
+1550,same long lines,queues,E
+1551,not that expensive to visit,price,I
+1552,so many people,crowd,E
+1553,just so many people on the beach,crowd,E
+1553,you get a bit claustrophobic,claustrophobic,E
+1554,the food in theis wonderful,food,I
+1554,be forewarned it is pricey,price,E
+1556,can go with family,couples/family,I
+1557,be mindful that people with claustrophobia or acrophobia could experience discomfort,claustrophobic,E
+1558,those with claustrophobia may have issues,claustrophobic,E
+1558,those with walking bad knees,handicap,E
+1559,it can get very busy i here,crowd,E
+1560,queues werent as busy as that morning,time/day/month,I
+1561,great day out with family and friends,couples/family,I
+1562,the place is usually very crowded,crowd,E
+1562,sometimes makes you feel claustrophobic,claustrophobic,E
+1563,clean beach,hygiene,I
+1564,it is very crowded,crowd,E
+1565,i knew how busy it gets,crowd,E
+1566,seems pretty darn expensive,price,E
+1567,drinks arent that expensive,price,I
+1568,it is too crowded and pricey,crowd,E
+1569,the overcrowding turned us off,crowd,E
+1570,cheap to reach,price,I
+1571,for sure is pricey a bit,price,E
+1572,toddlers may find fewer things,age,E
+1572,teens will love it and,age,I
+1573,before it becomes too packed,crowd,E
+1574,kids were bored very quickly,age,E
+1575,if you are claustrophobic or have any allergy to dust i do not suggest going there,claustrophobic,E
+1576,food was amazing,food,I
+1577,the fossil shop was reasonably priced,price,I
+1579,it wasnt crowded,crowd,I
+1580,jumper much cheaper than the,price,I
+1581,it may get busy during peak periods,crowd,E
+1581,you do not get the claustrophobic,claustrophobic,I
+1582,its awfully expensive there,price,E
+1583,thousands of people jammed together there,crowd,E
+1584,most being either bland or overcooked or both,food,E
+1585,expensive rest stop,price,E
+1586,there are more people on the boat than can fit by the rail,crowd,E
+1587,far more crowded,crowd,E
+1588,prices were reasonable,price,I
+1588,we didnt have to queue too long at all,queues,I
+1589,lovely street food,food,I
+1589,sooo busy,crowd,E
+1590,thoroughly enjoyed this visit with my grown up children,age,I
+1591,best to visit early,time/day/month,I
+1591,big crowds,crowd,E
+1592,overall experience here seem somewhat claustrophobic,claustrophobic,E
+1593,standing in line for waaay too long inside were a throng of people,crowd,E
+1594,it was triggering as a parenting nightmare,age,E
+1595,it was not overcrowded,crowd,I
+1596,both of my children including the non sporty one loved this tour,age,I
+1597,during the day it is crowded it wasnt claustrophobic crowded,claustrophobic,I
+1598,away from the claustrophobic lanes full of ferry passengers,claustrophobic,I
+1599,its a bit expensive,price,E
+1600,very inexpensive,price,I
+1601,dont worry claustrophobic people,claustrophobic,I
+1602,waited in a short line,queues,I
+1603,it wasnt too busy,queues,I
+1604,avoid crowds,crowd,E
+1604,we had virtually no line,queues,I
+1605,he felt claustrophobic,claustrophobic,E
+1606,one seven year old and one nearly five year old and we were all enthralled,age,I
+1607,food that didnt taste that great,food,E
+1608,five year old childs favourite museum,food,I
+1609,good and not expensive restaurant,price,I
+1610,i get slightly claustrophobic,claustrophobic,E
+1611,our family trip included two adults and 3 kids under 6,couples/family,I
+1612,we all had a fantastic time,couples/family,I
+1613,we queued for nearly an hour,queues,E
+1613,dark dingy claustrophobic queue,claustrophobic,E
+1614,all the major rides have queues of over an hour,queues,E
+1614,ridiculous prices,price,E
+1615,queues for the remaining ones were massive,queues,E
+1616,the food was cold over cooked visually unappealing,food,E
+1617,facilities such as toilet again had queues,queues,E
+1617,were tired dirty and,hygiene,E
+1618,queue again was ridiculous,queues,E
+1619,queuing for rides and food spoilt the experience,food,E
+1620,crowded and poorly ventilated,crowd,E
+1621,lots of great rides for the kids,age,I
+1622,they cater for kids of all ages,age,I
+1623,totally recommend for a family day of fun,couples/family,I
+1624,children 4 and 6 really enjoyed it,age,I
+1625,the cost is high,price,E
+1626,given the long lines,queues,E
+1627,maddening crowds,crowd,E
+1628,get very crowded towards,crowd,E
+1629,high end expensive,price,E
+1630,you can find almost every kind of international,food,I
+1631,my kids had a blast,age,I
+1632,the locker rooms were clean,hygiene,I
+1633,food was good,food,I
+1634,there is plenty there to do for a family,couples/family,I
+1635,but it does get crowded,crowd,E
+1636,the ticket prices are fair,price,I
+1637,slides was amazing with my autistic child he was really friendly and really helped to calm the meltdown down,couples/family,I
+1638,there was a choice of food back,food,I
+1639,parking is a mess,parking,E
+1639,was very busy,crowd,E
+1639,kids loved it,age,I
+1640,delicious food,food,I
+1641,this is a family excursion,couples/family,I
+1642,for kids under 5,age,I
+1643,not much of a selection of food,food,E
+1644,great street food vendors,food,I
+1645,interesting food,food,I
+1646,very busy,crowd,E
+1647,fast food that are actually cheaper,food,I
+1648,lot of people around,crowd,E
+1649,family,couples/family,I
+1651,claustrophobia constricts any possibility of imagination,claustrophobic,E
+1652,twice the wait to board and lines,queues,E
+1653,any family with children could be satisfied,age,I
+1653,food,food,I
+1654,the security queue took a while,queues,E
+1655,plenty of places to eat,food,I
+1656,you dont have to spend any money,price,I
+1657,over priced,price,E
+1657,a lot of people crammed into 1 car,claustrophobic,E
+1658,pricey restaurant,price,E
+1659,only recommend this experience for those with children,age,I
+1660,pretty pricey too,price,E
+1661,great with the kids,age,I
+1662,do not waste your money for dinner overpriced drinks,price,E
+1663,the food was delicious,food,I
+1664,the park is way beyond overcrowded borderline claustrophobic,claustrophobic,E
+1665,my kids 9 7 5 got bored,age,E
+1666,the food is okay,food,E
+1667,and i mean busy,crowd,E
+1668,eat here,food,I
+1669,delicious hot beignets,food,I
+1670,not crowded at all,crowd,I
+1671,great place for single couple or family,couples/family,I
+1672,just worth for kids,age,I
+1673,good selection of restaurants,food,I
+1674,lots of people taking photos it was quite congested,crowd,E
+1675,clean,hygiene,I
+1676,caters to couples,couples/family,I
+1677,strict no children,age,E
+1677,family policy,couples/family,E
+1678,applies to all children under 16,age,E
+1679,always clean,hygiene,I
+1680,lift and disabled toilets were located,handicap,I
+1681,couldnt see round the whole museum,handicap,E
+1682,entrance fee amount was ridiculous there,price,E
+1682,extortionate entrance fee,price,E
+1683,offered a variety of food items beverages and dessert,food,I
+1684,especially if they have mobility issues but are not wheelchair dependent,handicap,I
+1685,was not enough areas set up for the children to play in,age,E
+1685,not enough for the kids to do at all,age,E
+1686,no kids are allowed into the drinking areas,age,E
+1687,crowd control at the entrance to rihanna was dreadful really really dangerous,crowd,E
+1688,resulting in a mass congregation at the entrance with people pushing in from all sides and causing huge tension in the existing,crowd,E
+1689,i was so glad i did not have my children with me,age,E
+1690,food was just ok,food,E
+1691,it isnt at all claustrophobic,claustrophobic,I
+1692,dont eat the street food was,food,E
+1692,as not clean it may be cheap,hygiene,E
+1693,there are lots of places to eat,food,I
+1694,we were able to use a mobility scooter for the day for a nominal donation which allowed her to see the whole of the gardens,handicap,I
+1695,many restaurants and bars with delicious offerings,food,I
+1697,it does get very crowded,crowd,E
+1698,the water was clean,hygiene,I
+1699,it is overpriced slop,price,E
+1700,youll find amazing restaurants and bars selling delicious food for decent prices,food,I
+1701,there is a lot of parking available,parking,I
+1702,line ups and crowding make it a less enjoyable experience,crowd,E
+1703,fauchon fine food concession with its own cafe,food,I
+1704,good brasserie restaurant,food,I
+1705,quite confusing in the parking garage,parking,E
+1706,selection is good game,food,I
+1707,rides cleanliness i am bit,hygiene,E
+1708,the tickets are overpriced,price,E
+1709,still expensive at,price,E
+1710,parking is free for general parking,parking,I
+1711,it coming in handy is you have lets say a wheelchair perhaps,handicap,I
+1712,the food here is overpriced and not edible,price,E
+1713,this is a park for kids,age,I
+1714,the space is so small you bump into people,claustrophobic,E
+1715,there were tons of families,couples/family,I
+1715,very happy children,age,I
+1718,cut outs for wheeled device access,handicap,I
+1718,the curb cutouts were generous and readily available,handicap,I
+1719,noteworthy for the disabled traveler,handicap,I
+1720,it was adaptable for limited mobility persons,handicap,I
+1721,excellent well priced cafe,price,I
+1722,there is easy parking,parking,I
+1723,it was very busy,crowd,E
+1724,the drinks were expensive enough very overpriced,price,E
+1725,always very crowded,crowd,E
+1726,the lunch hours 12pm 2pm has the shortest line and smallest crowd,queues,E
+1727,high prices,price,E
+1728,some okay food,food,E
+1729,it is the most expensive,price,E
+1730,we werent prepared for the fact that most of the paths were stoney and uneven,handicap,E
+1731,it would be so much better for disabled visitors if the paths could be made more wheelchair friendly,handicap,E
+1732,cant be comfortable for kiddies and babies in pushchairs and prams either and,age,E
+1733,people enjoying themselves with their families,couples/family,E
+1734,its so expensive,price,E
+1735,its fairly pricey,price,E
+1736,bathrooms on busy nights are disgusting,hygiene,E
+1737,it wasnt crowded,crowd,I
+1738,limited food options throughout the day,food,E
+1739,is concession prices are a little,price,E
+1740,suites are very expensive,price,E
+1741,buffet style dinner was better than i expected,food,I
+1742,with tons of people,crowd,E
+1743,clean,handicap,I
+1744,there were loads of activities for older children,age,I
+1745,parking is free,parking,I
+1746,it would be great fun for kids of all ages,age,I
+1747,somewhat claustrophobic,claustrophobic,E
+1748,snacks and food are available,food,I
+1748,overinflated prices,price,E
+1749,people with disabilities may have a difficult time,handicap,E
+1750,claustrophobic queue,claustrophobic,E
+1751,people are standing and crammed in,claustrophobic,E
+1752,queue for the tram was at least 2 hours long,queues,E
+1753,not for those who are scared of heights or claustrophobic,claustrophobic,E
+1754,cost of entry into the attraction the cost of articles in the shop and the cost of food and drink,price,E
+1755,theres something for all the family,couples/family,I
+1756,kids will love the nickelodeon land,age,I
+1757,although we dodnt queue too long,queues,I
+1758,its very crowded,crowd,E
+1758,not in a claustrophobic way,claustrophobic,I
+1759,has large crowds,crowd,E
+1760,before it was packed,claustrophobic,E
+1761,it was still over crowded,crowd,E
+1762,crowded water buses,crowd,E
+1763,always overflowing with people,crowd,E
+1764,enough that you dont feel claustrophobic,claustrophobic,I
+1765,lots of crowds as expected,crowd,E
+1766,it can get crowded,crowd,E
+1767,mild claustrophobia but had no trouble with,claustrophobic,I
+1768,only down side was waiting in line,queues,E
+1769,pretty jammed up with people,crowd,E
+1770,park was busy,crowd,E
+1771,they all appeared to have disabled access,handicap,I
+1772,appears to have taken wheel chair users into account,handicap,I
+1773,the crowds were a little overwhelming,crowd,E
+1774,good cafe,food,I
+1775,it didnt become claustrophobic,claustrophobic,I
+1776,long line up for entrance,queues,E
+1777,the mountain wasnt packed by any means,crowd,I
+1778,parking is free,parking,I
+1779,the kids loved it,age,I
+1779,the kids will,age,I
+1780,its a great place to teach them to stand in line so that can learn from all of the other kids,age,I
+1781,it is handicapped assessable you can take your own wheelchair or get one there,handicap,I
+1782,the food in the restaurant was upscale and wholesome,food,I
+1783,i wouldnt think a wheelchair could make it out all the way to the beach,handicap,E
+1785,super long lines,queues,E
+1786,the food was reasonably priced,food,I
+1787,its very family friendly,couples/family,I
+1788,family eviornment,couples/family,I
+1789,there is wheelchair access,handicap,I
+1790,love the street food stalls,food,I
+1791,the food chefs and waiters were great,food,I
+1792,the food and drink is expensive,price,E
+1793,not a place to go if you get claustrophobic as it gets packed out,claustrophobic,E
+1794,the queues can be long,queues,E
+1795,substantial vegetarian buffet lunch,food,I
+1796,it had the best waves parking,parking,I
+1797,food was fantastic,food,I
+1798,line for food was all the way around the corner,food,E
+1799,3 euros per coffee twice the street price,price,E
+1800,the toilets are always clean,hygiene,I
+1801,great selection of places to eat and drink,food,I
+1802,they get very crowded,crowd,I
+1803,delicious buffet dinner,food,I
+1804,queues for food were massive,queues,E
+1806,very claustrophobic really,claustrophobic,E
+1807,park is very clean,hygiene,I
+1808,the only let down was the food availability,food,E
+1808,huge queues,queues,E
+1809,food didnt look appetizing,food,E
+1810,and way too crowded,crowd,E
+1811,i left early due to crowd claustrophobia,claustrophobic,E
+1812,the food was plentiful,food,I
+1813,danger dont visit with your family and kids,couples/family,E
+1814,the center was super crowded,crowd,E
+1815,excellent food,food,I
+1816,it was not very busy,crowd,I
+1817,great first day excursion on our family vacation,couples/family,I
+1818,it was not crowded,crowd,I
+1819,the food and drink prices were very reasonable,food,I
+1820,maybe a bit claustrophobic,claustrophobic,E
+1821,only suitable for highly mobile wheelchair users,handicap,I
+1822,food was very good,food,I
+1823,a bit pricey,price,E
+1824,with minor claustrophobia sitting in such crowded environment,claustrophobic,E
+1825,if you have children do not doubt and go,age,I
+1826,affordable price,price,I
+1827,it was busy,crowd,E
+1827,we never felt like we had to wait,queues,I
+1828,th kids loved playing in the sand and waves,age,I
+1829,a great place for family fun,couples/family,I
+1830,but expensive,price,E
+1831,expensive regulated parking,parking,E
+1832,no food or beverages are allowed,food,E
+1833,it wasnt busy,crowd,I
+1834,i would recommend this attraction for families with children as well as the elderly,age,I
+1835,it is very clean there as,hygiene,I
+1836,the food was outstanding,food,I
+1837,very clean and tidy,hygiene,I
+1838,ice creams and refreshments well over priced,price,E
+1839,restaurant could do with better prices too,price,E
+1840,having a lovely meal,food,I
+1841,plenty of parking,parking,I
+1842,drinks and ice cream werent the cheapest,price,E
+1843,crowds tripled by lunch time,crowd,E
+1844,there were very very long lines,queues,E
+1845,this is not a road for those who are afraid of heights or claustrophobic,claustrophobic,E
+1846,really terrific restaurant,food,I
+1847,great food and ambience,food,I
+1848,it was this fun in the daytime for families and couples,couples/family,I
+1849,it can get very busy and packed full of people,crowd,E
+1850,if you are claustrophobic dont hop on it if full,claustrophobic,E
+1851,you will need to bring your own water and snacks,food,E
+1851,there are no vendors in,food,E
+1852,mostly for small children,age,I
+1853,but it was not crowded at all,crowd,I
+1854,full of tourists,crowd,E
+1855,there is lots of parking,parking,I
+1856,it has adequate parking,parking,I
+1856,especially friendly to people with disabilities,handicap,I
+1857,they even have electric scooters for people with handicaps to rent,handicap,I
+1858,it was not too busy,crowd,I
+1859,food were available to us,food,I
+1860,we had a disabled senior citizen who was able to use the complimentary sand wheelchair,handicap,I
+1861,some climbing of stairs to keep in mind for the elderly,age,E
+1862,no food or drinks allowed,food,E
+1863,this was a bit pricey,price,E
+1864,a little pricey in my opinion,price,E
+1865,claustrophobic people there is s waiting room downstairs,claustrophobic,I
+1866,if you are claustrophobic this should maybe be a miss,claustrophobic,E
+1868,lines for the roller coasters were short and quick,queues,I
+1869,food prices did seem to be a bit high,price,E
+1870,wave pool wasnt overly crowded,crowd,I
+1870,the kids enjoyed the slides,age,I
+1871,i traveled solo in my wheelchair,handicap,I
+1871,righteously werent any accessibility concerns,handicap,I
+1872,interactivity is optimal for kids,age,I
+1873,require you to be both fit and not claustrophobic,claustrophobic,E
+1874,spotless clean,hygiene,I
+1875,great play area for kids,age,I
+1876,there is an outdoor restaurant you can have lunch at with a buffet,food,I
+1877,it was packed with locals and tourists,crowd,E
+1878,that is also well designed for kids,age,I
+1879,so if you are claustrophobic stay outside of the interior,claustrophobic,E
+1880,not at all claustrophobic,claustrophobic,I
+1881,it is always busy with people,crowd,E
+1882,the food onboard was excellent,food,I
+1883,the food is really too expensive inside,price,E
+1884,the crowds and the pushing and shoving,crowd,E
+1885,this was an expensive show,price,E
+1886,can be a bit claustrophobic,claustrophobic,E
+1887,parking is free,price,I
+1888,we were not allowed to bring in food or drink,food,E
+1889,anyone thats claustrophobic may feel closed in,claustrophobic,E
+1890,not wheelchair accesible,handicap,E
+1891,thought it was a little expensive,price,E
+1892,enjoyed eating,food,I
+1893,horrified by the massive crowds,crowd,E
+1894,queues were very short or nonexistent,queues,I
+1895,we were disgusted by the unruly crowd,crowd,E
+1896,the beach was clean,hygiene,I
+1897,plenty restaurants,food,I
+1897,pavements are pretty bad though especially for wheelchair users or disabled people,handicap,E
+1898,there is a big proportion of the walk way accessible,handicap,I
+1899,it was still so packed i felt claustrophobic,claustrophobic,E
+1900,i would recommend going very early in the morning before,time/day/month,I
+1901,just be wary of the crowds,crowd,E
+1902,its incredibly busy,crowd,E
+1903,the queues for the river tours were very long,queues,E
+1904,without having to queue,queues,I
+1905,kept the kids enthralled,age,I
+1906,keeping the kids engaged,age,I
+1907,gift shop is massively over priced,price,E
+1908,was too claustrophobic for me,claustrophobic,E
+1909,but every restaurant we have eaten at is great,food,I
+1910,crowds were very light,crowd,I
+1911,zoo was extremely clean,hygiene,I
+1912,over half the disabled spots were full with cars with no swing tags or disabled,handicap,E
+1913,your not going in the bakery in a wheelchair,handicap,E
+1914,shockingly expensive,price,E
+1915,food were phenomenal,food,I
+1916,seemed very expensive,price,I
+1917,variety of food,food,I
+1918,it is not expensive,price,I
+1919,it can get very very busy,crowd,E
+1920,cheap,price,E
+1921,was too claustrophobic for me,claustrophobic,E
+1922,very expensive,price,E
+1923,i fell in love with was the food court,food,I
+1924,it looks so pretty and tastes delicious,food,I
+1925,if you can leave the wheeled device behind youll be better,handicap,E
+1926,great getaway for our family,couples/family,I
+1927,the lines are insane,queues,E
+1928,the restaurant facilities were poor,food,E
+1928,food and drinks offered were equally poor and,food,E
+1929,kept the 2 kids fully entertained for the whole hour,age,I
+1930,fab family day out,couples/family,I
+1931,highley recomended to visit for a show with family,couples/family,I
+1932,food good,food,I
+1933,drink packages are expensive,price,E
+1934,photographs are expensive,price,E
+1935,if you dont mind crowds,crowd,E
+1935,found it claustrophobic,claustrophobic,E
+1936,various childrens play areas,age,I
+1937,very little choice of food,food,E
+1938,there is disabled parking,handicap,E
+1939,the lines werent too bad,queues,I
+1939,that line was a disaster,queues,E
+1940,so many people crammed in,claustrophobic,E
+1940,it was so claustrophobic,claustrophobic,E
+1941,very crowded you,crowd,E
+1942,not for those that are claustrophobic was crowded,claustrophobic,E
+1943,are quite cheap,price,I
+1944,this isnt wheelchair accessible,handicap,E
+1945,i went in 3 2 of which were also accessible in a wheelchair,handicap,I
+1946,the main route inside was accessible,handicap,I
+1947,the 3rd tomb we went in wasnt accessible,handicap,E
+1948,there are some other wheelchair accessible tombs,handicap,I
+1949,off season was overpriced,price,E
+1950,very difficult to drop off people in wheelchairs baby strollers,handicap,E
+1951,no covered area for family to sit,couples/family,E
+1952,corridor as it was packed with patrons,crowd,E
+1953,overwhelming feeling of claustrophobia,claustrophobic,E
+1953,crowd of patrons,crowd,E
+1954,it was so crowed,crowd,E
+1955,bathrooms are some of the most unsanitary,hygiene,E
+1956,be prepared for lines all day that are over 2 hours long,queues,E
+1957,they pack the people into the hall,crowd,E
+1958,the park is spotlessly clean,hygiene,I
+1958,has rides which should cater for most children,age,I
+1959,queue times were pretty much non existent,queues,I
+1960,the bog splash zone was also fantastic for the kids,age,I
+1961,food wasnt overly priced,food,I
+1962,you have you children even if they arent peppa pig fans they will love poultons,age,I
+1963,vegetarian,food,I
+1964,one vegetarian option,food,I
+1965,the many buffet restaurants had a ton of good choices,food,I
+1966,the a la cart restaurants were very good,food,I
+1966,fresh high quality food,food,I
+1967,spacious and clean,hygiene,I
+1968,this resort is perfect for kids,age,I
+1969,kids specific places,age,I
+1970,warmly recommend if you are travelling with kids,age,I
+1971,children from ages 311 were entertained,age,I
+1972,there is only one place to purchase food drink,food,E
+1974,children stayed entertained,age,I
+1975,onsite parking during busy times like weekends and holidays is impossible,time/day/month,E
+1975,for handicap placard vehicles,handicap,I
+1976,it can be a very expensive day,price,E
+1977,lots of food options,food,E
+1978,it was not overcrowded,crowd,I
+1979,restaurants,food,I
+1980,extremely claustrophobic let alone travelling with two toddlers,claustrophobic,E
+1981,but it is very suffocating inside,claustrophobic,E
+1982,families can do a lot,couples/family,I
+1983,push the price up,price,E
+1984,if you suffer from claustrophobia,claustrophobic,E
+1984,arehave children who are easily upset you may want to consider not doing this one,age,E
+1985,parking near the main entrance is limited,parking,E
+1986,plenty of parking,parking,I
+1987,had kids versions too,age,I
+1988,my children aged eight were a little scared by some of it,age,E
+1989,some very expensive,price,E
+1990,they are very clean as well,hygiene,I
+1990,considering the amount of people,crowd,E
+1991,not accessible for disabled,handicap,E
+1992,it is definitely overpriced though,price,E
+1993,its all crammed together,claustrophobic,E
+1994,but the kids absolutely loved it,age,I
+1995,prices felt a bit steep,price,E
+1995,but we didnt have to queue,queues,I
+1996,it was so unbelievably crowded,crowd,E
+1997,kids were fed up,age,E
+1998,i saw a few kids upset,age,E
+1999,it was claustrophobic,claustrophobic,E
+2000,fare extremely cheap,price,I
+2001,souks are claustrophobic,claustrophobic,E
+2002,served good food which was reasonably priced,price,I
+2003,the food was exactly the right amount very tasty and well presented,food,I
+2004,large queues to enter,queues,E
+2005,my son was in wheelchair because of a broken leg and they were very attentive,handicap,E
+2006,and the buffet,food,I
+2007,the food was incredible,food,I
+2008,there was plenty of good food,food,I
+2009,the center has many options for food,food,I
+2010,be prepared if there are mobility issues,handicap,E
+2011,can get very crowded,crowd,E
+2011,tombs can feel a bit claustrophobic,claustrophobic,E
+2012,there is no food or water at the attraction itself,food,E
+2013,very little queue which was good,queues,I
+2014,was very over crowded,crowd,E
+2015,it was very busy up there,crowd,E
+2016,price,price,I
+2017,as a wheelchair users lots has been done to make as much as possible,handicap,I
+2018,worth the money,price,I
+2019,3 year old loved,age,I
+2020,wheelchair friendly,handicap,I
+2021,its quite expensive day,price,E
+2022,for the price you pay i was really,price,I
+2022,the cost which is,price,E
+2023,with family,couples/family,I
+2024,feels claustrophobic,claustrophobic,E
+2025,but you dont really get claustrophobic,claustrophobic,I
+2026,my kids love going there,age,I
+2026,good food,food,I
+2027,i always go with my young kids,age,I
+2028,as a family,couples/family,I
+2028,on a date,couples/family,I
+2028,nice restaurants,food,I
+2029,with family,couples/family,I
+2029,partner,couples/family,I
+2029,my lil boy loved it,age,I
+2030,should cost so much,price,E
+2031,family trip,couples/family,I
+2032,it was very busy,crowd,E
+2033,lack of food and drink options,food,E
+2034,had queues out of the door,queues,E
+2035,was lines of people in all directions,queues,E
+2036,were sewer water,hygiene,E
+2037,maybe too many people,crowd,E
+2038,food was a good standard,food,I
+2039,i am 71 she is 65,age,I
+2040,usually packed,crowd,E
+2041,for kids,age,I
+2042,enjoy family and,couples/family,I
+2043,great food,food,I
+2045,food was wonderful,food,I
+2046,conch fritters and drinks were on point,food,I
+2047,becomes quite chaotic and uncomfortable,crowd,E
+2048,littered with trash,hygiene,E
+2049,its much cleaner,hygiene,I
+2050,actually cheaper,price,I
+2051,prepared to feel a bit claustrophobic,claustrophobic,E
+2052,always stuff for the kids,age,I
+2052,restaurants are great,food,I
+2053,werent a lot of people there,crowd,I
+2054,restaurants were packed,food,E
+2055,ages range from 1252,age,I
+2056,excellent staff and food,food,I
+2057,most people were 60,age,I
+2057,several young couples,couples/family,I
+2058,the food was,food,I
+2059,arent many elevators,handicap,E
+2060,never claustrophobic,claustrophobic,I
+2061,is cheap at 16,price,I
+2062,good access for elderly and disabled,age,I
+2063,childrens activity area,age,I
+2064,short queue,queues,I
+2065,not so scary though that you cant bring younger children,age,I
+2066,same old overpriced merchandise,price,E
+2067,for younger children,age,I
+2067,adults,age,I
+2068,queues were a bit long,queues,E
+2069,food is expensive,food,E
+2070,abouton top of the standard price but,price,E
+2071,playground for the kids,age,I
+2072,nice restaurant,food,I
+2072,great selection of food and drinks,food,I
+2073,if you are claustrophobic then they may not be for you,claustrophobic,E
+2074,kind of claustrophobic,claustrophobic,E
+2075,food wasnt great,food,E
+2076,extreme crowds,crowd,E
+2077,best time to go january this,time/day/month,I
+2078,see with the whole family,couples/family,I
+2079,small stroller that was great,handicap,I
+2080,for the price its a must see attraction,price,I
+2081,was very busy,crowd,E
+2082,felt very claustrophobic,claustrophobic,E
+2083,two teenagers,age,I
+2084,including gluten free,food,I
+2085,for all ages,age,I
+2085,love coming here with our grand children,age,I
+2086,price for parking the car,price,E
+2087,it was expensive,price,E
+2088,worth every penny,price,I
+2089,buffet lunch was fabulous,food,I
+2090,three boys ages 5 7 8 enjoyed,age,I
+2090,my husband and i,couples/family,I
+2091,may want to wait until they are older,age,I
+2092,it is very crowded,crowd,E
+2093,suggest waiting until late afternoon,time/day/month,I
+2094,good food and good wine,food,I
+2095,the food the drinks are all exciting,food,I
+2096,great for small couples,couples/family,I
+2097,more crowded,crowd,E
+2098,handicap accessible,handicap,I
+2099,steep steps were very slippery,handicap,E
+2100,food options were good,food,I
+2100,dont get very much at all for your money,price,E
+2101,it is busy,crowd,E
+2102,the queues are massive,queues,E
+2103,so over crowded,crowd,E
+2104,younger children will love it,age,I
+2105,prices to buy this are very reasonable,price,I
+2106,big play area for children,age,I
+2107,with the family,couples/family,I
+2108,very clean,hygiene,E
+2109,family day,couples/family,I
+2109,prey firstly parking is,parking,E
+2109,and some disable bays not,handicap,E
+2110,over priced public car park,parking,E
+2112,adult items,age,I
+2113,food so many options,food,I
+2114,restaurants are very expensive,price,E
+2115,not for the elderly,age,E
+2116,lots of kids,age,I
+2116,their families,couples/family,I
+2117,14 year old grandson loved it,age,I
+2118,avoid the long,queues,E
+2119,not that crowded,crowd,I
+2119,lines for the rides were very short,queues,I
+2120,buffet was inedible,food,E
+2121,looked terrible,food,E
+2122,my son loved it,age,I
+2123,disgusting breakfast,food,I
+2124,cleanliness of the park,hygiene,I
+2125,very clean,hygiene,E
+2126,cost is high,price,E
+2127,large amount of food,food,I
+2128,warrant the price,price,E
+2130,us warranted the price,price,E
+2131,not overcrowded in winter,crowd,I
+2132,excellent coffee and hot chocolate,food,I
+2133,my 10 yr old,age,I
+2134,super crowded,crowd,E
+2135,crowded in the late afternoon early evenings,time/day/month,E
+2136,great place to visit for sunrise and,time/day/month,I
+2136,early morning,time/day/month,I
+2137,it is very busy,crowd,E
+2138,great for kids,age,I
+2139,big hit with younger kids,age,I
+2140,horrendous amount of beach pollution,hygiene,E
+2141,very clean,hygiene,E
+2142,not a trip id take with tiny kids,age,E
+2143,take with kids old enough,age,I
+2144,with the family,couples/family,I
+2145,to eat,food,I
+2147,yummy spooky cocktails,food,I
+2148,october evening for,time/day/month,I
+2150,car park was full to overflowing,parking,E
+2151,in the rain,time/day/month,E
+2152,without feeling pushed,crowd,I
+2152,claustrophobic,claustrophobic,E
+2152,hordes of crowds,crowd,E
+2153,our family,couples/family,I

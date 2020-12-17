@@ -1,0 +1,11 @@
+keywords['family']= ['family','kids','sons']
+keywords['handicap'] = ['wheelchair','handicap','elevator','disabled','stairs']
+keywords['crowd'] = ['crowd','jammed','people','packed','queue']
+keywords['claustrophobic'] = ['claustrophob']
+keywords['time\_of\_day'] = ['day','night','afternoon','morning','evening'] / early
+keywords['price'] =['expensive','cheap','pricey','price','cost','\$','dollars','overpriced']
+keywords['food'] = ['delicious','food','meat','dinner','lunch','veg']
+keywords['age'] = ['young','old','year','teen','grandparents']
+keywords['queues'] = ['queue','wait','long']
+keywords['parking'] = ['parking','car','vehicle']
+keywords['hygiene'] = ['clean','filthy','dirty','littered']

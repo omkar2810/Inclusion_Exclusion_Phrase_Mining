@@ -1,0 +1,5 @@
+- extracted_data.zip : JSONs containing extracted review info for the 1000 sites.
+- annotations_2000.json1 : Contains the annotations for the sampled reviews.
+- Task1.csv : Prepared dataset for task1.
+- Task2.csv : Prepared dataset for task2.
+- glove.6B.200D.txt : Glove 200D embeddings.
