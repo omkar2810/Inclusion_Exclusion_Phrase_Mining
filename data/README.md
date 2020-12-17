@@ -2,4 +2,3 @@
 - annotations_2000.json1 : Contains the annotations for the sampled reviews.
 - Task1.csv : Prepared dataset for task1.
 - Task2.csv : Prepared dataset for task2.
-- glove.6B.200D.txt : Glove 200D embeddings.
